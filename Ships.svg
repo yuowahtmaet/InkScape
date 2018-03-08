@@ -1,0 +1,2577 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg5705"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="New document 2">
+  <defs
+     id="defs5707" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.20543386"
+     inkscape:cx="378.11871"
+     inkscape:cy="673.64842"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5710">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       transform="translate(-4769.5257,-409.94104)"
+       id="g6943">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 5060.6562,1097.8125 0,12.5 c 0,27.8596 15.2001,52.1604 37.75,65.0937 l 0,10.1876 12.25,12.2187 75,0 12.25,-12.2187 0,-10.1876 c 22.5438,-12.9349 37.75,-37.2387 37.75,-65.0937 l 0,-12.5 -50,0 -25,0 -25,0 -25,0 -50,0 z"
+         id="path6945" />
+      <rect
+         transform="scale(-1,-1)"
+         style="fill:none;stroke:none"
+         id="rect6947"
+         width="12.5"
+         height="75"
+         x="-5060.6475"
+         y="-1185.3253"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         y="-1185.3253"
+         x="-5248.1475"
+         height="75"
+         width="12.5"
+         id="rect6949"
+         style="fill:none;stroke:none"
+         transform="scale(-1,-1)" />
+    </g>
+    <g
+       id="g6951"
+       transform="matrix(0,-1,-1,0,1269.1218,5814.908)">
+      <path
+         id="path6953"
+         d="m 5239.5312,990.5 0,12.5 c 0,0 18.8716,18.8917 37.75,37.7812 l 0,37.5 12.25,12.2188 75,0 12.25,-12.2188 0,-37.5 c 18.8743,-18.8628 37.75,-37.7362 37.75,-37.7812 l 0,-12.5 -50,0 -50,0 -75,0 z"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         inkscape:connector-curvature="0" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         y="1002.9914"
+         x="5227.0366"
+         height="75"
+         width="12.5"
+         id="rect6955"
+         style="fill:none;stroke:none" />
+      <rect
+         style="fill:none;stroke:none"
+         id="rect6957"
+         width="12.5"
+         height="75"
+         x="5414.5366"
+         y="1002.9914"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       transform="matrix(0,-1,1,0,-511.87828,5814.908)"
+       id="g6959">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 5239.5312,990.5 0,12.5 c 0,0 18.8716,18.8917 37.75,37.7812 l 0,37.5 12.25,12.2188 75,0 12.25,-12.2188 0,-37.5 c 18.8743,-18.8628 37.75,-37.7362 37.75,-37.7812 l 0,-12.5 -50,0 -50,0 -75,0 z"
+         id="path6961" />
+      <rect
+         style="fill:none;stroke:none"
+         id="rect6963"
+         width="12.5"
+         height="75"
+         x="5227.0366"
+         y="1002.9914"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         y="1002.9914"
+         x="5414.5366"
+         height="75"
+         width="12.5"
+         id="rect6965"
+         style="fill:none;stroke:none" />
+    </g>
+    <g
+       transform="matrix(0,-1,-1,0,1269.1218,5514.908)"
+       id="g6967">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 5239.5312,990.5 0,12.5 c 0,0 18.8716,18.8917 37.75,37.7812 l 0,37.5 12.25,12.2188 75,0 12.25,-12.2188 0,-37.5 c 18.8743,-18.8628 37.75,-37.7362 37.75,-37.7812 l 0,-12.5 -50,0 -50,0 -75,0 z"
+         id="path6969" />
+      <rect
+         style="fill:none;stroke:none"
+         id="rect6971"
+         width="12.5"
+         height="75"
+         x="5227.0366"
+         y="1002.9914"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         y="1002.9914"
+         x="5414.5366"
+         height="75"
+         width="12.5"
+         id="rect6973"
+         style="fill:none;stroke:none" />
+    </g>
+    <g
+       id="g6975"
+       transform="matrix(0,-1,1,0,-511.87828,5514.908)">
+      <path
+         id="path6977"
+         d="m 5239.5312,990.5 0,12.5 c 0,0 18.8716,18.8917 37.75,37.7812 l 0,37.5 12.25,12.2188 75,0 12.25,-12.2188 0,-37.5 c 18.8743,-18.8628 37.75,-37.7362 37.75,-37.7812 l 0,-12.5 -50,0 -50,0 -75,0 z"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         inkscape:connector-curvature="0" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         y="1002.9914"
+         x="5227.0366"
+         height="75"
+         width="12.5"
+         id="rect6979"
+         style="fill:none;stroke:none" />
+      <rect
+         style="fill:none;stroke:none"
+         id="rect6981"
+         width="12.5"
+         height="75"
+         x="5414.5366"
+         y="1002.9914"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       transform="translate(-3877.7068,-1329.7224)"
+       id="g6983">
+      <rect
+         transform="scale(-1,-1)"
+         style="fill:#bf80ff;fill-opacity:0;fill-rule:nonzero;stroke:none"
+         id="rect6985"
+         width="12.5"
+         height="75"
+         x="-4168.8286"
+         y="-1705.0842"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 4168.8438,1617.5938 0,12.5 0,75 0,12.5 75,0 0,-12.5 0,-75 0,-12.5 -75,0 z"
+         id="path6987" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         y="-1705.0842"
+         x="-4256.3286"
+         height="75"
+         width="12.5"
+         id="rect6989"
+         style="fill:#bf80ff;fill-opacity:0;fill-rule:nonzero;stroke:none"
+         transform="scale(-1,-1)" />
+    </g>
+    <g
+       id="g6991"
+       transform="translate(-3777.7068,-1329.7224)">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         y="-1705.0842"
+         x="-4168.8286"
+         height="75"
+         width="12.5"
+         id="rect6993"
+         style="fill:#bf80ff;fill-opacity:0;fill-rule:nonzero;stroke:none"
+         transform="scale(-1,-1)" />
+      <path
+         id="path6995"
+         d="m 4168.8438,1617.5938 0,12.5 0,75 0,12.5 75,0 0,-12.5 0,-75 0,-12.5 -75,0 z"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         inkscape:connector-curvature="0" />
+      <rect
+         transform="scale(-1,-1)"
+         style="fill:#bf80ff;fill-opacity:0;fill-rule:nonzero;stroke:none"
+         id="rect6997"
+         width="12.5"
+         height="75"
+         x="-4256.3286"
+         y="-1705.0842"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       transform="matrix(-1,0,0,-1,4740.2472,1899.8714)"
+       id="g6999">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 4474.125,1212 0,12.5 -12.5,0 0,75 12.5,0 75,0 12.5,0 0,-75 -12.5,0 0,-12.5 -75,0 z"
+         id="path7001" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         y="4474.1343"
+         x="-1312"
+         height="75"
+         width="12.5"
+         id="rect7003"
+         style="fill:#bf80ff;fill-opacity:0;fill-rule:nonzero;stroke:none"
+         transform="matrix(0,-1,1,0,0,0)" />
+    </g>
+    <g
+       id="g7005"
+       transform="matrix(-1,0,0,-1,5040.2472,1899.8714)">
+      <path
+         id="path7007"
+         d="m 4474.125,1212 0,12.5 -12.5,0 0,75 12.5,0 75,0 12.5,0 0,-75 -12.5,0 0,-12.5 -75,0 z"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         inkscape:connector-curvature="0" />
+      <rect
+         transform="matrix(0,-1,1,0,0,0)"
+         style="fill:#bf80ff;fill-opacity:0;fill-rule:nonzero;stroke:none"
+         id="rect7009"
+         width="12.5"
+         height="75"
+         x="-1312"
+         y="4474.1343"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       id="g7063"
+       transform="translate(-4969.5255,-309.94104)">
+      <path
+         id="path7065"
+         d="m 5060.6562,1097.8125 0,12.5 c 0,27.8596 15.2001,52.1604 37.75,65.0937 l 0,10.1876 12.25,12.2187 75,0 12.25,-12.2187 0,-10.1876 c 22.5438,-12.9349 37.75,-37.2387 37.75,-65.0937 l 0,-12.5 -50,0 -25,0 -25,0 -25,0 -50,0 z"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         inkscape:connector-curvature="0" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         y="-1185.3253"
+         x="-5060.6475"
+         height="75"
+         width="12.5"
+         id="rect7067"
+         style="fill:none;stroke:none"
+         transform="scale(-1,-1)" />
+      <rect
+         transform="scale(-1,-1)"
+         style="fill:none;stroke:none"
+         id="rect7069"
+         width="12.5"
+         height="75"
+         x="-5248.1475"
+         y="-1185.3253"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       transform="translate(-4569.5255,-309.94104)"
+       id="g7071">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 5060.6562,1097.8125 0,12.5 c 0,27.8596 15.2001,52.1604 37.75,65.0937 l 0,10.1876 12.25,12.2187 75,0 12.25,-12.2187 0,-10.1876 c 22.5438,-12.9349 37.75,-37.2387 37.75,-65.0937 l 0,-12.5 -50,0 -25,0 -25,0 -25,0 -50,0 z"
+         id="path7073" />
+      <rect
+         transform="scale(-1,-1)"
+         style="fill:none;stroke:none"
+         id="rect7075"
+         width="12.5"
+         height="75"
+         x="-5060.6475"
+         y="-1185.3253"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         y="-1185.3253"
+         x="-5248.1475"
+         height="75"
+         width="12.5"
+         id="rect7077"
+         style="fill:none;stroke:none"
+         transform="scale(-1,-1)" />
+    </g>
+    <g
+       id="g7079"
+       transform="matrix(0,-1,-1,0,1690.622,5149.4964)">
+      <path
+         id="path7081"
+         d="m 4474.125,1212 0,12.5 -12.5,0 0,75 12.5,0 75,0 12.5,0 0,-75 -12.5,0 0,-12.5 -75,0 z"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         inkscape:connector-curvature="0" />
+      <rect
+         transform="matrix(0,-1,1,0,0,0)"
+         style="fill:#bf80ff;fill-opacity:0;fill-rule:nonzero;stroke:none"
+         id="rect7083"
+         width="12.5"
+         height="75"
+         x="-1312"
+         y="4474.1343"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       transform="matrix(0,-1,1,0,-933.37807,5149.4964)"
+       id="g7085">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 4474.125,1212 0,12.5 -12.5,0 0,75 12.5,0 75,0 12.5,0 0,-75 -12.5,0 0,-12.5 -75,0 z"
+         id="path7087" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         y="4474.1343"
+         x="-1312"
+         height="75"
+         width="12.5"
+         id="rect7089"
+         style="fill:#bf80ff;fill-opacity:0;fill-rule:nonzero;stroke:none"
+         transform="matrix(0,-1,1,0,0,0)" />
+    </g>
+    <g
+       id="g7091"
+       transform="matrix(-1,0,0,-1,4652.7782,1866.9964)">
+      <path
+         id="path7093"
+         d="m 4486.6562,1179.125 0,12.5 -12.5,0 0,75 12.5,0 c 41.4214,0 75,-33.5786 75,-75 l 0,-12.5 -75,0 z"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0,-1,1,0,0,0)"
+         style="fill:#bf80ff;fill-opacity:0;fill-rule:nonzero;stroke:none"
+         d="m -1279.125,4486.667 12.5,0 0,75 -12.5,0 z"
+         id="path7095" />
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-1,-1)"
+         style="fill:#bf80ff;fill-opacity:0;fill-rule:nonzero;stroke:none"
+         d="m -4574.1562,-1266.6349 12.5,0 0,75 -12.5,0 z"
+         id="path7097" />
+    </g>
+    <g
+       transform="matrix(1,0,0,-1,-3895.5342,1866.9964)"
+       id="g7099">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 4486.6562,1179.125 0,12.5 -12.5,0 0,75 12.5,0 c 41.4214,0 75,-33.5786 75,-75 l 0,-12.5 -75,0 z"
+         id="path7101" />
+      <path
+         id="path7103"
+         d="m -1279.125,4486.667 12.5,0 0,75 -12.5,0 z"
+         style="fill:#bf80ff;fill-opacity:0;fill-rule:nonzero;stroke:none"
+         transform="matrix(0,-1,1,0,0,0)"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path7105"
+         d="m -4574.1562,-1266.6349 12.5,0 0,75 -12.5,0 z"
+         style="fill:#bf80ff;fill-opacity:0;fill-rule:nonzero;stroke:none"
+         transform="scale(-1,-1)"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g7107"
+       transform="translate(-4077.7068,-929.72238)">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         y="-1705.0842"
+         x="-4168.8286"
+         height="75"
+         width="12.5"
+         id="rect7109"
+         style="fill:#bf80ff;fill-opacity:0;fill-rule:nonzero;stroke:none"
+         transform="scale(-1,-1)" />
+      <path
+         id="path7111"
+         d="m 4168.8438,1617.5938 0,12.5 0,75 0,12.5 75,0 0,-12.5 0,-75 0,-12.5 -75,0 z"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         inkscape:connector-curvature="0" />
+      <rect
+         transform="scale(-1,-1)"
+         style="fill:#bf80ff;fill-opacity:0;fill-rule:nonzero;stroke:none"
+         id="rect7113"
+         width="12.5"
+         height="75"
+         x="-4256.3286"
+         y="-1705.0842"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       transform="translate(-3977.7066,-929.72238)"
+       id="g7115">
+      <rect
+         transform="scale(-1,-1)"
+         style="fill:#bf80ff;fill-opacity:0;fill-rule:nonzero;stroke:none"
+         id="rect7117"
+         width="12.5"
+         height="75"
+         x="-4168.8286"
+         y="-1705.0842"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 4168.8438,1617.5938 0,12.5 0,75 0,12.5 75,0 0,-12.5 0,-75 0,-12.5 -75,0 z"
+         id="path7119" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         y="-1705.0842"
+         x="-4256.3286"
+         height="75"
+         width="12.5"
+         id="rect7121"
+         style="fill:#bf80ff;fill-opacity:0;fill-rule:nonzero;stroke:none"
+         transform="scale(-1,-1)" />
+    </g>
+    <g
+       id="g7123"
+       transform="translate(-3677.7066,-929.72238)">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         y="-1705.0842"
+         x="-4168.8286"
+         height="75"
+         width="12.5"
+         id="rect7125"
+         style="fill:#bf80ff;fill-opacity:0;fill-rule:nonzero;stroke:none"
+         transform="scale(-1,-1)" />
+      <path
+         id="path7127"
+         d="m 4168.8438,1617.5938 0,12.5 0,75 0,12.5 75,0 0,-12.5 0,-75 0,-12.5 -75,0 z"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         inkscape:connector-curvature="0" />
+      <rect
+         transform="scale(-1,-1)"
+         style="fill:#bf80ff;fill-opacity:0;fill-rule:nonzero;stroke:none"
+         id="rect7129"
+         width="12.5"
+         height="75"
+         x="-4256.3286"
+         y="-1705.0842"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       transform="translate(-3577.7066,-929.72238)"
+       id="g7131">
+      <rect
+         transform="scale(-1,-1)"
+         style="fill:#bf80ff;fill-opacity:0;fill-rule:nonzero;stroke:none"
+         id="rect7133"
+         width="12.5"
+         height="75"
+         x="-4168.8286"
+         y="-1705.0842"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 4168.8438,1617.5938 0,12.5 0,75 0,12.5 75,0 0,-12.5 0,-75 0,-12.5 -75,0 z"
+         id="path7135" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         y="-1705.0842"
+         x="-4256.3286"
+         height="75"
+         width="12.5"
+         id="rect7137"
+         style="fill:#bf80ff;fill-opacity:0;fill-rule:nonzero;stroke:none"
+         transform="scale(-1,-1)" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path7234"
+       d="m 291.12172,387.87144 0,12.5 -12.5,0 0,75 12.5,0 0,25 -12.5,0 0,74.99996 12.5,0 0,12.5 75,0 0,-12.5 25,0 0,12.5 75,0 0,-12.5 12.5,0 0,-74.99996 -12.5,0 0,-25 12.5,0 0,-75 -12.5,0 0,-12.5 -75,0 0,12.5 -25,0 0,-12.5 -75,0 z"
+       style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <g
+       transform="translate(-5042.7532,-663.72233)"
+       id="g7373">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 5321.375,764.09375 0,75 12.5,0 0,25 -12.5,0 0,75 12.5,0 0,12.5 75,0 0,-12.5 25,0 0,12.5 75,0 0,-12.5 12.5,0 0,-75 -12.5,0 0,-25 12.5,0 0,-75 -12.5,0 -175,0 -12.5,0 z"
+         id="path7375" />
+      <rect
+         transform="matrix(0,-1,1,0,0,0)"
+         style="fill:none;stroke:none"
+         id="rect7377"
+         width="12.5"
+         height="75"
+         x="-764.09375"
+         y="5333.8604"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         y="5433.8604"
+         x="-764.09375"
+         height="75"
+         width="12.5"
+         id="rect7379"
+         style="fill:none;stroke:none"
+         transform="matrix(0,-1,1,0,0,0)" />
+    </g>
+    <g
+       transform="matrix(0,-1,-1,0,2005.7134,5689.5601)"
+       id="g5967">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 5239.5312,990.5 0,12.5 c 0,0 18.8716,18.8917 37.75,37.7812 l 0,37.5 12.25,12.2188 75,0 12.25,-12.2188 0,-37.5 c 18.8743,-18.8628 37.75,-37.7362 37.75,-37.7812 l 0,-12.5 -50,0 -50,0 -75,0 z"
+         id="path5969" />
+      <rect
+         style="fill:none;stroke:none"
+         id="rect5971"
+         width="12.5"
+         height="75"
+         x="5227.0366"
+         y="1002.9914"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         y="1002.9914"
+         x="5414.5366"
+         height="75"
+         width="12.5"
+         id="rect5973"
+         style="fill:none;stroke:none" />
+    </g>
+    <g
+       id="g5975"
+       transform="matrix(0,-1,1,0,224.71332,5689.5601)">
+      <path
+         id="path5977"
+         d="m 5239.5312,990.5 0,12.5 c 0,0 18.8716,18.8917 37.75,37.7812 l 0,37.5 12.25,12.2188 75,0 12.25,-12.2188 0,-37.5 c 18.8743,-18.8628 37.75,-37.7362 37.75,-37.7812 l 0,-12.5 -50,0 -50,0 -75,0 z"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         inkscape:connector-curvature="0" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         y="1002.9914"
+         x="5227.0366"
+         height="75"
+         width="12.5"
+         id="rect5979"
+         style="fill:none;stroke:none" />
+      <rect
+         style="fill:none;stroke:none"
+         id="rect5981"
+         width="12.5"
+         height="75"
+         x="5414.5366"
+         y="1002.9914"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       id="g5983"
+       transform="matrix(0,-1,-1,0,2005.7134,5389.5601)">
+      <path
+         id="path5985"
+         d="m 5239.5312,990.5 0,12.5 c 0,0 18.8716,18.8917 37.75,37.7812 l 0,37.5 12.25,12.2188 75,0 12.25,-12.2188 0,-37.5 c 18.8743,-18.8628 37.75,-37.7362 37.75,-37.7812 l 0,-12.5 -50,0 -50,0 -75,0 z"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         inkscape:connector-curvature="0" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         y="1002.9914"
+         x="5227.0366"
+         height="75"
+         width="12.5"
+         id="rect5987"
+         style="fill:none;stroke:none" />
+      <rect
+         style="fill:none;stroke:none"
+         id="rect5989"
+         width="12.5"
+         height="75"
+         x="5414.5366"
+         y="1002.9914"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       transform="matrix(0,-1,1,0,224.71332,5389.5601)"
+       id="g5991">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 5239.5312,990.5 0,12.5 c 0,0 18.8716,18.8917 37.75,37.7812 l 0,37.5 12.25,12.2188 75,0 12.25,-12.2188 0,-37.5 c 18.8743,-18.8628 37.75,-37.7362 37.75,-37.7812 l 0,-12.5 -50,0 -50,0 -75,0 z"
+         id="path5993" />
+      <rect
+         style="fill:none;stroke:none"
+         id="rect5995"
+         width="12.5"
+         height="75"
+         x="5227.0366"
+         y="1002.9914"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         y="1002.9914"
+         x="5414.5366"
+         height="75"
+         width="12.5"
+         id="rect5997"
+         style="fill:none;stroke:none" />
+    </g>
+    <g
+       id="g5999"
+       transform="translate(-3141.1152,-1455.0703)">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         y="-1705.0842"
+         x="-4168.8286"
+         height="75"
+         width="12.5"
+         id="rect6001"
+         style="fill:#bf80ff;fill-opacity:0;fill-rule:nonzero;stroke:none"
+         transform="scale(-1,-1)" />
+      <path
+         id="path6003"
+         d="m 4168.8438,1617.5938 0,12.5 0,75 0,12.5 75,0 0,-12.5 0,-75 0,-12.5 -75,0 z"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         inkscape:connector-curvature="0" />
+      <rect
+         transform="scale(-1,-1)"
+         style="fill:#bf80ff;fill-opacity:0;fill-rule:nonzero;stroke:none"
+         id="rect6005"
+         width="12.5"
+         height="75"
+         x="-4256.3286"
+         y="-1705.0842"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       transform="translate(-3041.1152,-1455.0703)"
+       id="g6007">
+      <rect
+         transform="scale(-1,-1)"
+         style="fill:#bf80ff;fill-opacity:0;fill-rule:nonzero;stroke:none"
+         id="rect6009"
+         width="12.5"
+         height="75"
+         x="-4168.8286"
+         y="-1705.0842"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 4168.8438,1617.5938 0,12.5 0,75 0,12.5 75,0 0,-12.5 0,-75 0,-12.5 -75,0 z"
+         id="path6011" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         y="-1705.0842"
+         x="-4256.3286"
+         height="75"
+         width="12.5"
+         id="rect6013"
+         style="fill:#bf80ff;fill-opacity:0;fill-rule:nonzero;stroke:none"
+         transform="scale(-1,-1)" />
+    </g>
+    <path
+       style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 1027.7133,262.52354 0,12.5 -12.5,0 0,75 12.5,0 0,25 -12.5,0 0,74.99996 12.5,0 0,12.5 75,0 0,-12.5 25,0 0,12.5 75,0 0,-12.5 12.5,0 0,-74.99996 -12.5,0 0,-25 12.5,0 0,-75 -12.5,0 0,-12.5 -75,0 0,12.5 -25,0 0,-12.5 -75,0 z"
+       id="path6103"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g6105"
+       transform="translate(-4306.1616,-789.07023)">
+      <path
+         id="path6107"
+         d="m 5321.375,764.09375 0,75 12.5,0 0,25 -12.5,0 0,75 12.5,0 0,12.5 75,0 0,-12.5 25,0 0,12.5 75,0 0,-12.5 12.5,0 0,-75 -12.5,0 0,-25 12.5,0 0,-75 -12.5,0 -175,0 -12.5,0 z"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         inkscape:connector-curvature="0" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         y="5333.8604"
+         x="-764.09375"
+         height="75"
+         width="12.5"
+         id="rect6109"
+         style="fill:none;stroke:none"
+         transform="matrix(0,-1,1,0,0,0)" />
+      <rect
+         transform="matrix(0,-1,1,0,0,0)"
+         style="fill:none;stroke:none"
+         id="rect6111"
+         width="12.5"
+         height="75"
+         x="-764.09375"
+         y="5433.8604"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       id="g6178"
+       transform="translate(-3458.9427,-516.6015)">
+      <path
+         id="path6180"
+         d="m 4486.6562,1179.125 0,12.5 -12.5,0 0,75 12.5,0 c 41.4214,0 75,-33.5786 75,-75 l 0,-12.5 -75,0 z"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0,-1,1,0,0,0)"
+         style="fill:#bf80ff;fill-opacity:0;fill-rule:nonzero;stroke:none"
+         d="m -1279.125,4486.667 12.5,0 0,75 -12.5,0 z"
+         id="path6182" />
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-1,-1)"
+         style="fill:#bf80ff;fill-opacity:0;fill-rule:nonzero;stroke:none"
+         d="m -4574.1562,-1266.6349 12.5,0 0,75 -12.5,0 z"
+         id="path6184" />
+    </g>
+    <g
+       transform="matrix(-1,0,0,1,5689.3698,-516.6015)"
+       id="g6186">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 4486.6562,1179.125 0,12.5 -12.5,0 0,75 12.5,0 c 41.4214,0 75,-33.5786 75,-75 l 0,-12.5 -75,0 z"
+         id="path6188" />
+      <path
+         id="path6190"
+         d="m -1279.125,4486.667 12.5,0 0,75 -12.5,0 z"
+         style="fill:#bf80ff;fill-opacity:0;fill-rule:nonzero;stroke:none"
+         transform="matrix(0,-1,1,0,0,0)"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path6192"
+         d="m -4574.1562,-1266.6349 12.5,0 0,75 -12.5,0 z"
+         style="fill:#bf80ff;fill-opacity:0;fill-rule:nonzero;stroke:none"
+         transform="scale(-1,-1)"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       transform="translate(-3558.4742,-600.07024)"
+       id="g5537">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 4461.1875,1075.0938 c -41.4214,0 -75,78.35 -75,175 l 0,12.5 75,0 0,-12.5 12.5,0 0,-75 -12.5,0 0,-25 12.5,0 0,-75 -12.5,0 z"
+         id="path5539" />
+      <rect
+         transform="scale(-1,-1)"
+         style="fill:none;stroke:none"
+         id="rect5541"
+         width="12.5"
+         height="75"
+         x="-4386.1875"
+         y="-1250.0948"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         y="-1150.0948"
+         x="-4386.1875"
+         height="75"
+         width="12.5"
+         id="rect5543"
+         style="fill:none;stroke:none"
+         transform="scale(-1,-1)" />
+      <rect
+         transform="matrix(0,-1,1,0,0,0)"
+         style="fill:none;stroke:none"
+         id="rect5545"
+         width="12.5"
+         height="75"
+         x="-1075.0938"
+         y="4386.1816"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       id="g6353"
+       transform="matrix(-1,0,0,1,5788.9008,-600.07024)">
+      <path
+         id="path6355"
+         d="m 4461.1875,1075.0938 c -41.4214,0 -75,78.35 -75,175 l 0,12.5 75,0 0,-12.5 12.5,0 0,-75 -12.5,0 0,-25 12.5,0 0,-75 -12.5,0 z"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         inkscape:connector-curvature="0" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         y="-1250.0948"
+         x="-4386.1875"
+         height="75"
+         width="12.5"
+         id="rect6357"
+         style="fill:none;stroke:none"
+         transform="scale(-1,-1)" />
+      <rect
+         transform="scale(-1,-1)"
+         style="fill:none;stroke:none"
+         id="rect6359"
+         width="12.5"
+         height="75"
+         x="-4386.1875"
+         y="-1150.0948"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         y="4386.1816"
+         x="-1075.0938"
+         height="75"
+         width="12.5"
+         id="rect6361"
+         style="fill:none;stroke:none"
+         transform="matrix(0,-1,1,0,0,0)" />
+    </g>
+    <g
+       transform="matrix(0,1,-1,0,2632.8071,-3693.8051)"
+       id="g6363">
+      <rect
+         transform="scale(-1,-1)"
+         style="fill:#bf80ff;fill-opacity:0;fill-rule:nonzero;stroke:none"
+         id="rect6365"
+         width="12.5"
+         height="75"
+         x="-4168.8286"
+         y="-1705.0842"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 4168.8438,1617.5938 0,12.5 0,75 0,12.5 75,0 0,-12.5 0,-75 0,-12.5 -75,0 z"
+         id="path6367" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         y="-1705.0842"
+         x="-4256.3286"
+         height="75"
+         width="12.5"
+         id="rect6369"
+         style="fill:#bf80ff;fill-opacity:0;fill-rule:nonzero;stroke:none"
+         transform="scale(-1,-1)" />
+    </g>
+    <g
+       id="g6387"
+       transform="matrix(0,1,-1,0,2932.8071,-3693.8051)">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         y="-1705.0842"
+         x="-4168.8286"
+         height="75"
+         width="12.5"
+         id="rect6389"
+         style="fill:#bf80ff;fill-opacity:0;fill-rule:nonzero;stroke:none"
+         transform="scale(-1,-1)" />
+      <path
+         id="path6391"
+         d="m 4168.8438,1617.5938 0,12.5 0,75 0,12.5 75,0 0,-12.5 0,-75 0,-12.5 -75,0 z"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         inkscape:connector-curvature="0" />
+      <rect
+         transform="scale(-1,-1)"
+         style="fill:#bf80ff;fill-opacity:0;fill-rule:nonzero;stroke:none"
+         id="rect6393"
+         width="12.5"
+         height="75"
+         x="-4256.3286"
+         y="-1705.0842"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+       style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 1227.4636,562.52355 -12.25,12.2187 0,75.5313 12.25,12.2499 75,0 12.25,-12.2499 0,-75.5313 -12.25,-12.2187 -75,0 z"
+       id="path4721"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path6439"
+       d="m 927.4633,562.52362 -12.25,12.2187 0,75.53134 12.25,12.2499 75,0 12.25,-12.2499 0,-75.53134 -12.25,-12.2187 -75,0 z"
+       style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       transform="matrix(0,1,-1,0,2094.3383,-3811.6326)"
+       id="g6441">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 4486.6562,1179.125 0,12.5 -12.5,0 0,75 12.5,0 c 41.4214,0 75,-33.5786 75,-75 l 0,-12.5 -75,0 z"
+         id="path6443" />
+      <path
+         id="path6445"
+         d="m -1279.125,4486.667 12.5,0 0,75 -12.5,0 z"
+         style="fill:#bf80ff;fill-opacity:0;fill-rule:nonzero;stroke:none"
+         transform="matrix(0,-1,1,0,0,0)"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path6447"
+         d="m -4574.1562,-1266.6349 12.5,0 0,75 -12.5,0 z"
+         style="fill:#bf80ff;fill-opacity:0;fill-rule:nonzero;stroke:none"
+         transform="scale(-1,-1)"
+         inkscape:connector-curvature="0" />
+    </g>
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+       style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 927.46331,662.52356 -12.25,12.2187 0,75.53134 12.25,12.2499 74.99999,0 12.25,-12.2499 0,-75.53134 -12.25,-12.2187 -74.99999,0 z"
+       id="path6449"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path6451"
+       d="m 1227.4636,662.52345 -12.25,12.2187 0,75.53134 12.25,12.2499 75,0 12.25,-12.2499 0,-75.53134 -12.25,-12.2187 -75,0 z"
+       style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       transform="translate(-3158.9429,-516.60144)"
+       id="g6453">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 4486.6562,1179.125 0,12.5 -12.5,0 0,75 12.5,0 c 41.4214,0 75,-33.5786 75,-75 l 0,-12.5 -75,0 z"
+         id="path6455" />
+      <path
+         id="path6457"
+         d="m -1279.125,4486.667 12.5,0 0,75 -12.5,0 z"
+         style="fill:#bf80ff;fill-opacity:0;fill-rule:nonzero;stroke:none"
+         transform="matrix(0,-1,1,0,0,0)"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path6459"
+         d="m -4574.1562,-1266.6349 12.5,0 0,75 -12.5,0 z"
+         style="fill:#bf80ff;fill-opacity:0;fill-rule:nonzero;stroke:none"
+         transform="scale(-1,-1)"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g8568"
+       transform="translate(1543.0757,58.412962)">
+      <path
+         id="path7020"
+         d="m 1706.4335,549.8177 -12.5,0 c 0,0 -18.8917,-18.8716 -37.7812,-37.75 l -37.5,0 -12.2188,-12.25 0,-75 12.2188,-12.25 37.5,0 c 18.8628,-18.8743 37.7362,-37.75 37.7812,-37.75 l 12.5,0 0,50 0,50 0,75 z"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 1906.4334,549.8177 12.5,0 c 0,0 18.8917,-18.8716 37.7812,-37.75 l 37.5,0 12.2188,-12.25 0,-75 -12.2188,-12.25 -37.5,0 c -18.8628,-18.8743 -37.7362,-37.75 -37.7812,-37.75 l -12.5,0 0,50 0,50 0,75 z"
+         id="path7028" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 1706.4335,249.8177 -12.5,0 c 0,0 -18.8917,-18.8716 -37.7812,-37.75 l -37.5,0 -12.2188,-12.25 0,-75 12.2188,-12.25 37.5,0 c 18.8628,-18.8743 37.7362,-37.75 37.7812,-37.75 l 12.5,0 0,50 0,50 0,75 z"
+         id="path7036" />
+      <path
+         id="path7044"
+         d="m 1906.4334,249.8177 12.5,0 c 0,0 18.8917,-18.8716 37.7812,-37.75 l 37.5,0 12.2188,-12.25 0,-75 -12.2188,-12.25 -37.5,0 c -18.8628,-18.8743 -37.7362,-37.75 -37.7812,-37.75 l -12.5,0 0,50 0,50 0,75 z"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 1718.9487,262.3123 0,12.5 0,75 0,12.5 75,0 0,-12.5 0,-75 0,-12.5 -75,0 z"
+         id="path7054" />
+      <path
+         id="path7062"
+         d="m 1818.9487,262.3123 0,12.5 0,75 0,12.5 75,0 0,-12.5 0,-75 0,-12.5 -75,0 z"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 1718.9334,362.31235 0,12.5 -12.5,0 0,75 12.5,0 0,25 -12.5,0 0,74.99996 12.5,0 0,12.5 75,0 0,-12.5 25,0 0,12.5 75,0 0,-12.5 12.5,0 0,-74.99996 -12.5,0 0,-25 12.5,0 0,-75 -12.5,0 0,-12.5 -75,0 0,12.5 -25,0 0,-12.5 -75,0 z"
+         id="path7066"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 1706.4335,74.81233 0,75 12.5,0 0,25 -12.5,0 0,75 12.5,0 0,12.5 75,0 0,-12.5 25,0 0,12.5 75,0 0,-12.5 12.5,0 0,-75 -12.5,0 0,-25 12.5,0 0,-75 -12.5,0 -175,0 -12.5,0 z"
+         id="path7070" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 1718.9336,762.31231 0,12.5 -12.5,0 0,75 12.5,0 c 41.4214,0 75,-33.5786 75,-75 l 0,-12.5 -75,0 z"
+         id="path7078" />
+      <path
+         id="path7086"
+         d="m 1893.9337,762.31231 0,12.5 12.5,0 0,75 -12.5,0 c -41.4214,0 -75,-33.5786 -75,-75 l 0,-12.5 75,0 z"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path7094"
+         d="m 1593.9334,574.81237 c -41.4214,0 -75,78.35 -75,175 l 0,12.5 75,0 0,-12.5 12.5,0 0,-75 -12.5,0 0,-25 12.5,0 0,-75 -12.5,0 z"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 2018.9334,574.81237 c 41.4214,0 75,78.35 75,175 l 0,12.5 -75,0 0,-12.5 -12.5,0 0,-75 12.5,0 0,-25 -12.5,0 0,-75 12.5,0 z"
+         id="path7104" />
+      <path
+         id="path7116"
+         d="m 1706.4334,574.8275 -12.5,0 -75,0 -12.5,0 0,75 12.5,0 75,0 12.5,0 0,-75 z"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 2006.4334,574.8275 -12.5,0 -75,0 -12.5,0 0,75 12.5,0 75,0 12.5,0 0,-75 z"
+         id="path7124" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 1918.6837,662.31236 -12.25,12.2187 0,75.5313 12.25,12.2499 75,0 12.25,-12.2499 0,-75.5313 -12.25,-12.2187 -75,0 z"
+         id="path7128"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path7130"
+         d="m 1618.6834,662.31243 -12.25,12.2187 0,75.53134 12.25,12.2499 75,0 12.25,-12.2499 0,-75.53134 -12.25,-12.2187 -75,0 z"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         id="path7134"
+         d="m 1606.4334,774.8124 -12.5,0 0,-12.5 -75,0 0,12.5 c 0,41.4214 33.5786,75 75,75 l 12.5,0 0,-75 z"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 1618.6834,762.31237 -12.25,12.2187 0,75.53134 12.25,12.2499 75,0 12.25,-12.2499 0,-75.53134 -12.25,-12.2187 -75,0 z"
+         id="path7140"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path7142"
+         d="m 1918.6837,762.31226 -12.25,12.2187 0,75.53134 12.25,12.2499 75,0 12.25,-12.2499 0,-75.53134 -12.25,-12.2187 -75,0 z"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         id="path7146"
+         d="m 2018.9334,762.31237 0,12.5 -12.5,0 0,75 12.5,0 c 41.4214,0 75,-33.5786 75,-75 l 0,-12.5 -75,0 z"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path7152"
+         d="m 1718.9334,562.31231 0,12.5 -12.5,0 0,75 12.5,0 0,25 -12.5,0 0,74.99996 12.5,0 0,12.5 75,0 0,-12.5 25,0 0,12.5 75,0 0,-12.5 12.5,0 0,-74.99996 -12.5,0 0,-25 12.5,0 0,-75 -12.5,0 0,-12.5 -75,0 0,12.5 -25,0 0,-12.5 -75,0 z"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       id="g7201"
+       transform="matrix(0,-1,-1,0,1971.6391,6884.3808)">
+      <path
+         id="path7203"
+         d="m 5239.5312,990.5 0,12.5 c 0,0 18.8716,18.8917 37.75,37.7812 l 0,37.5 12.25,12.2188 75,0 12.25,-12.2188 0,-37.5 c 18.8743,-18.8628 37.75,-37.7362 37.75,-37.7812 l 0,-12.5 -50,0 -50,0 -75,0 z"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         inkscape:connector-curvature="0" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         y="1002.9914"
+         x="5227.0366"
+         height="75"
+         width="12.5"
+         id="rect7205"
+         style="fill:none;stroke:none" />
+      <rect
+         style="fill:none;stroke:none"
+         id="rect7207"
+         width="12.5"
+         height="75"
+         x="5414.5366"
+         y="1002.9914"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       transform="matrix(0,-1,1,0,190.63909,6884.3808)"
+       id="g7209">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 5239.5312,990.5 0,12.5 c 0,0 18.8716,18.8917 37.75,37.7812 l 0,37.5 12.25,12.2188 75,0 12.25,-12.2188 0,-37.5 c 18.8743,-18.8628 37.75,-37.7362 37.75,-37.7812 l 0,-12.5 -50,0 -50,0 -75,0 z"
+         id="path7211" />
+      <rect
+         style="fill:none;stroke:none"
+         id="rect7213"
+         width="12.5"
+         height="75"
+         x="5227.0366"
+         y="1002.9914"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         y="1002.9914"
+         x="5414.5366"
+         height="75"
+         width="12.5"
+         id="rect7215"
+         style="fill:none;stroke:none" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path7249"
+       d="m 993.63903,1457.3442 0,12.5 -12.5,0 0,75 12.5,0 0,25 -12.5,0 0,75 12.5,0 0,12.5 74.99997,0 0,-12.5 25,0 0,12.5 75,0 0,-12.5 12.5,0 0,-75 -12.5,0 0,-25 12.5,0 0,-75 -12.5,0 0,-12.5 -75,0 0,12.5 -25,0 0,-12.5 -74.99997,0 z"
+       style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <g
+       id="g7559"
+       transform="translate(0,-99.99996)">
+      <g
+         id="g7217"
+         transform="matrix(0,-1,-1,0,1971.6391,6684.3808)">
+        <path
+           id="path7219"
+           d="m 5239.5312,990.5 0,12.5 c 0,0 18.8716,18.8917 37.75,37.7812 l 0,37.5 12.25,12.2188 75,0 12.25,-12.2188 0,-37.5 c 18.8743,-18.8628 37.75,-37.7362 37.75,-37.7812 l 0,-12.5 -50,0 -50,0 -75,0 z"
+           style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           inkscape:connector-curvature="0" />
+        <rect
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+           y="1002.9914"
+           x="5227.0366"
+           height="75"
+           width="12.5"
+           id="rect7221"
+           style="fill:none;stroke:none" />
+        <rect
+           style="fill:none;stroke:none"
+           id="rect7223"
+           width="12.5"
+           height="75"
+           x="5414.5366"
+           y="1002.9914"
+           inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+      </g>
+      <g
+         transform="matrix(0,-1,1,0,190.63909,6684.3808)"
+         id="g7225">
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 5239.5312,990.5 0,12.5 c 0,0 18.8716,18.8917 37.75,37.7812 l 0,37.5 12.25,12.2188 75,0 12.25,-12.2188 0,-37.5 c 18.8743,-18.8628 37.75,-37.7362 37.75,-37.7812 l 0,-12.5 -50,0 -50,0 -75,0 z"
+           id="path7227" />
+        <rect
+           style="fill:none;stroke:none"
+           id="rect7229"
+           width="12.5"
+           height="75"
+           x="5227.0366"
+           y="1002.9914"
+           inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <rect
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+           y="1002.9914"
+           x="5414.5366"
+           height="75"
+           width="12.5"
+           id="rect7231"
+           style="fill:none;stroke:none" />
+      </g>
+      <g
+         id="g7233"
+         transform="translate(-3175.1895,-160.24964)">
+        <rect
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+           y="-1705.0842"
+           x="-4168.8286"
+           height="75"
+           width="12.5"
+           id="rect7235"
+           style="fill:#bf80ff;fill-opacity:0;fill-rule:nonzero;stroke:none"
+           transform="scale(-1,-1)" />
+        <path
+           id="path7237"
+           d="m 4168.8438,1617.5938 0,12.5 0,75 0,12.5 75,0 0,-12.5 0,-75 0,-12.5 -75,0 z"
+           style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           inkscape:connector-curvature="0" />
+        <rect
+           transform="scale(-1,-1)"
+           style="fill:#bf80ff;fill-opacity:0;fill-rule:nonzero;stroke:none"
+           id="rect7239"
+           width="12.5"
+           height="75"
+           x="-4256.3286"
+           y="-1705.0842"
+           inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+      </g>
+      <g
+         transform="translate(-3075.1895,-160.24964)"
+         id="g7241">
+        <rect
+           transform="scale(-1,-1)"
+           style="fill:#bf80ff;fill-opacity:0;fill-rule:nonzero;stroke:none"
+           id="rect7243"
+           width="12.5"
+           height="75"
+           x="-4168.8286"
+           y="-1705.0842"
+           inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 4168.8438,1617.5938 0,12.5 0,75 0,12.5 75,0 0,-12.5 0,-75 0,-12.5 -75,0 z"
+           id="path7245" />
+        <rect
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+           y="-1705.0842"
+           x="-4256.3286"
+           height="75"
+           width="12.5"
+           id="rect7247"
+           style="fill:#bf80ff;fill-opacity:0;fill-rule:nonzero;stroke:none"
+           transform="scale(-1,-1)" />
+      </g>
+      <g
+         id="g7251"
+         transform="translate(-4340.2359,505.75043)">
+        <path
+           id="path7253"
+           d="m 5321.375,764.09375 0,75 12.5,0 0,25 -12.5,0 0,75 12.5,0 0,12.5 75,0 0,-12.5 25,0 0,12.5 75,0 0,-12.5 12.5,0 0,-75 -12.5,0 0,-25 12.5,0 0,-75 -12.5,0 -175,0 -12.5,0 z"
+           style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           inkscape:connector-curvature="0" />
+        <rect
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+           y="5333.8604"
+           x="-764.09375"
+           height="75"
+           width="12.5"
+           id="rect7255"
+           style="fill:none;stroke:none"
+           transform="matrix(0,-1,1,0,0,0)" />
+        <rect
+           transform="matrix(0,-1,1,0,0,0)"
+           style="fill:none;stroke:none"
+           id="rect7257"
+           width="12.5"
+           height="75"
+           x="-764.09375"
+           y="5433.8604"
+           inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+      </g>
+    </g>
+    <g
+       transform="translate(-3593.0172,778.21916)"
+       id="g7259">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 4486.6562,1179.125 0,12.5 -12.5,0 0,75 12.5,0 c 41.4214,0 75,-33.5786 75,-75 l 0,-12.5 -75,0 z"
+         id="path7261" />
+      <path
+         id="path7263"
+         d="m -1279.125,4486.667 12.5,0 0,75 -12.5,0 z"
+         style="fill:#bf80ff;fill-opacity:0;fill-rule:nonzero;stroke:none"
+         transform="matrix(0,-1,1,0,0,0)"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path7265"
+         d="m -4574.1562,-1266.6349 12.5,0 0,75 -12.5,0 z"
+         style="fill:#bf80ff;fill-opacity:0;fill-rule:nonzero;stroke:none"
+         transform="scale(-1,-1)"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g7275"
+       transform="translate(-3692.5487,694.75042)">
+      <path
+         id="path7277"
+         d="m 4461.1875,1075.0938 c -41.4214,0 -75,78.35 -75,175 l 0,12.5 75,0 0,-12.5 12.5,0 0,-75 -12.5,0 0,-25 12.5,0 0,-75 -12.5,0 z"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         inkscape:connector-curvature="0" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         y="-1250.0948"
+         x="-4386.1875"
+         height="75"
+         width="12.5"
+         id="rect7279"
+         style="fill:none;stroke:none"
+         transform="scale(-1,-1)" />
+      <rect
+         transform="scale(-1,-1)"
+         style="fill:none;stroke:none"
+         id="rect7281"
+         width="12.5"
+         height="75"
+         x="-4386.1875"
+         y="-1150.0948"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         y="4386.1816"
+         x="-1075.0938"
+         height="75"
+         width="12.5"
+         id="rect7283"
+         style="fill:none;stroke:none"
+         transform="matrix(0,-1,1,0,0,0)" />
+    </g>
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+       style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 793.38887,1857.3443 -12.25,12.2187 0,75.5314 12.25,12.2499 74.99996,0 12.25,-12.2499 0,-75.5314 -12.25,-12.2187 -74.99996,0 z"
+       id="path7313"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g7315"
+       transform="matrix(0,1,-1,0,1960.2638,-2516.8119)">
+      <path
+         id="path7317"
+         d="m 4486.6562,1179.125 0,12.5 -12.5,0 0,75 12.5,0 c 41.4214,0 75,-33.5786 75,-75 l 0,-12.5 -75,0 z"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0,-1,1,0,0,0)"
+         style="fill:#bf80ff;fill-opacity:0;fill-rule:nonzero;stroke:none"
+         d="m -1279.125,4486.667 12.5,0 0,75 -12.5,0 z"
+         id="path7319" />
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-1,-1)"
+         style="fill:#bf80ff;fill-opacity:0;fill-rule:nonzero;stroke:none"
+         d="m -4574.1562,-1266.6349 12.5,0 0,75 -12.5,0 z"
+         id="path7321" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path7323"
+       d="m 793.38888,1957.3443 -12.25,12.2187 0,75.5313 12.25,12.2499 74.99995,0 12.25,-12.2499 0,-75.5313 -12.25,-12.2187 -74.99995,0 z"
+       style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       transform="matrix(0,1,-1,0,2598.7326,-2398.9844)"
+       id="g7345">
+      <rect
+         transform="scale(-1,-1)"
+         style="fill:#bf80ff;fill-opacity:0;fill-rule:nonzero;stroke:none"
+         id="rect7347"
+         width="12.5"
+         height="75"
+         x="-4168.8286"
+         y="-1705.0842"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 4168.8438,1617.5938 0,12.5 0,75 0,12.5 75,0 0,-12.5 0,-75 0,-12.5 -75,0 z"
+         id="path7349" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         y="-1705.0842"
+         x="-4256.3286"
+         height="75"
+         width="12.5"
+         id="rect7351"
+         style="fill:#bf80ff;fill-opacity:0;fill-rule:nonzero;stroke:none"
+         transform="scale(-1,-1)" />
+    </g>
+    <g
+       id="g7400"
+       transform="matrix(-1,0,0,1,5755.2952,778.21915)">
+      <path
+         id="path7402"
+         d="m 4486.6562,1179.125 0,12.5 -12.5,0 0,75 12.5,0 c 41.4214,0 75,-33.5786 75,-75 l 0,-12.5 -75,0 z"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0,-1,1,0,0,0)"
+         style="fill:#bf80ff;fill-opacity:0;fill-rule:nonzero;stroke:none"
+         d="m -1279.125,4486.667 12.5,0 0,75 -12.5,0 z"
+         id="path7404" />
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-1,-1)"
+         style="fill:#bf80ff;fill-opacity:0;fill-rule:nonzero;stroke:none"
+         d="m -4574.1562,-1266.6349 12.5,0 0,75 -12.5,0 z"
+         id="path7406" />
+    </g>
+    <g
+       transform="matrix(-1,0,0,1,5854.8267,694.75041)"
+       id="g7408">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 4461.1875,1075.0938 c -41.4214,0 -75,78.35 -75,175 l 0,12.5 75,0 0,-12.5 12.5,0 0,-75 -12.5,0 0,-25 12.5,0 0,-75 -12.5,0 z"
+         id="path7410" />
+      <rect
+         transform="scale(-1,-1)"
+         style="fill:none;stroke:none"
+         id="rect7412"
+         width="12.5"
+         height="75"
+         x="-4386.1875"
+         y="-1250.0948"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         y="-1150.0948"
+         x="-4386.1875"
+         height="75"
+         width="12.5"
+         id="rect7414"
+         style="fill:none;stroke:none"
+         transform="scale(-1,-1)" />
+      <rect
+         transform="matrix(0,-1,1,0,0,0)"
+         style="fill:none;stroke:none"
+         id="rect7416"
+         width="12.5"
+         height="75"
+         x="-1075.0938"
+         y="4386.1816"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path7426"
+       d="m 1368.8892,1857.3443 12.25,12.2187 0,75.5314 -12.25,12.2499 -75,0 -12.25,-12.2499 0,-75.5314 12.25,-12.2187 75,0 z"
+       style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       transform="matrix(0,1,1,0,202.01423,-2516.8119)"
+       id="g7428">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 4486.6562,1179.125 0,12.5 -12.5,0 0,75 12.5,0 c 41.4214,0 75,-33.5786 75,-75 l 0,-12.5 -75,0 z"
+         id="path7430" />
+      <path
+         id="path7432"
+         d="m -1279.125,4486.667 12.5,0 0,75 -12.5,0 z"
+         style="fill:#bf80ff;fill-opacity:0;fill-rule:nonzero;stroke:none"
+         transform="matrix(0,-1,1,0,0,0)"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path7434"
+         d="m -4574.1562,-1266.6349 12.5,0 0,75 -12.5,0 z"
+         style="fill:#bf80ff;fill-opacity:0;fill-rule:nonzero;stroke:none"
+         transform="scale(-1,-1)"
+         inkscape:connector-curvature="0" />
+    </g>
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+       style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 1368.8891,1957.3443 12.25,12.2187 0,75.5313 -12.25,12.2499 -74.9999,0 -12.25,-12.2499 0,-75.5313 12.25,-12.2187 74.9999,0 z"
+       id="path7436"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g7446"
+       transform="matrix(0,1,1,0,-436.45457,-2398.9844)">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         y="-1705.0842"
+         x="-4168.8286"
+         height="75"
+         width="12.5"
+         id="rect7448"
+         style="fill:#bf80ff;fill-opacity:0;fill-rule:nonzero;stroke:none"
+         transform="scale(-1,-1)" />
+      <path
+         id="path7450"
+         d="m 4168.8438,1617.5938 0,12.5 0,75 0,12.5 75,0 0,-12.5 0,-75 0,-12.5 -75,0 z"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         inkscape:connector-curvature="0" />
+      <rect
+         transform="scale(-1,-1)"
+         style="fill:#bf80ff;fill-opacity:0;fill-rule:nonzero;stroke:none"
+         id="rect7452"
+         width="12.5"
+         height="75"
+         x="-4256.3286"
+         y="-1705.0842"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       transform="matrix(-1,0,0,-1,5442.764,3169.3442)"
+       id="g7516">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 4474.125,1212 0,12.5 -12.5,0 0,75 12.5,0 75,0 12.5,0 0,-75 -12.5,0 0,-12.5 -75,0 z"
+         id="path7518" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         y="4474.1343"
+         x="-1312"
+         height="75"
+         width="12.5"
+         id="rect7520"
+         style="fill:#bf80ff;fill-opacity:0;fill-rule:nonzero;stroke:none"
+         transform="matrix(0,-1,1,0,0,0)" />
+    </g>
+    <g
+       id="g7522"
+       transform="matrix(-1,0,0,-1,5742.764,3169.3442)">
+      <path
+         id="path7524"
+         d="m 4474.125,1212 0,12.5 -12.5,0 0,75 12.5,0 75,0 12.5,0 0,-75 -12.5,0 0,-12.5 -75,0 z"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         inkscape:connector-curvature="0" />
+      <rect
+         transform="matrix(0,-1,1,0,0,0)"
+         style="fill:#bf80ff;fill-opacity:0;fill-rule:nonzero;stroke:none"
+         id="rect7526"
+         width="12.5"
+         height="75"
+         x="-1312"
+         y="4474.1343"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       id="g7316"
+       transform="matrix(-1,0,0,-1,6502.514,2708.938)">
+      <path
+         id="rect7236"
+         d="m 5321.375,764.09375 0,75 12.5,0 0,25 -12.5,0 0,75 12.5,0 0,12.5 75,0 0,-12.5 25,0 0,12.5 75,0 0,-12.5 12.5,0 0,-75 -12.5,0 0,-25 12.5,0 0,-75 -12.5,0 -175,0 -12.5,0 z"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         inkscape:connector-curvature="0" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         y="5333.8604"
+         x="-764.09375"
+         height="75"
+         width="12.5"
+         id="rect7250"
+         style="fill:none;stroke:none"
+         transform="matrix(0,-1,1,0,0,0)" />
+      <rect
+         transform="matrix(0,-1,1,0,0,0)"
+         style="fill:none;stroke:none"
+         id="rect7252"
+         width="12.5"
+         height="75"
+         x="-764.09375"
+         y="5433.8604"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path7555"
+       d="m 793.38887,1757.3443 -12.25,12.2187 0,75.5314 12.25,12.2499 74.99996,0 12.25,-12.2499 0,-75.5314 -12.25,-12.2187 -74.99996,0 z"
+       style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+       style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 1293.8893,1757.3443 -12.25,12.2187 0,75.5314 12.25,12.2499 74.9999,0 12.25,-12.2499 0,-75.5314 -12.25,-12.2187 -74.9999,0 z"
+       id="path7557"
+       inkscape:connector-curvature="0" />
+    <g
+       transform="translate(-3175.1896,39.75045)"
+       id="g7597">
+      <rect
+         transform="scale(-1,-1)"
+         style="fill:#bf80ff;fill-opacity:0;fill-rule:nonzero;stroke:none"
+         id="rect7599"
+         width="12.5"
+         height="75"
+         x="-4168.8286"
+         y="-1705.0842"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 4168.8438,1617.5938 0,12.5 0,75 0,12.5 75,0 0,-12.5 0,-75 0,-12.5 -75,0 z"
+         id="path7601" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         y="-1705.0842"
+         x="-4256.3286"
+         height="75"
+         width="12.5"
+         id="rect7603"
+         style="fill:#bf80ff;fill-opacity:0;fill-rule:nonzero;stroke:none"
+         transform="scale(-1,-1)" />
+    </g>
+    <g
+       id="g7605"
+       transform="translate(-3075.1896,39.75045)">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         y="-1705.0842"
+         x="-4168.8286"
+         height="75"
+         width="12.5"
+         id="rect7607"
+         style="fill:#bf80ff;fill-opacity:0;fill-rule:nonzero;stroke:none"
+         transform="scale(-1,-1)" />
+      <path
+         id="path7609"
+         d="m 4168.8438,1617.5938 0,12.5 0,75 0,12.5 75,0 0,-12.5 0,-75 0,-12.5 -75,0 z"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         inkscape:connector-curvature="0" />
+      <rect
+         transform="scale(-1,-1)"
+         style="fill:#bf80ff;fill-opacity:0;fill-rule:nonzero;stroke:none"
+         id="rect7611"
+         width="12.5"
+         height="75"
+         x="-4256.3286"
+         y="-1705.0842"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       transform="matrix(-1,0,0,1,4490.354,643.98049)"
+       id="g7659">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 4486.6562,1179.125 0,12.5 -12.5,0 0,75 12.5,0 c 41.4214,0 75,-33.5786 75,-75 l 0,-12.5 -75,0 z"
+         id="path7661" />
+      <path
+         id="path7663"
+         d="m -1279.125,4486.667 12.5,0 0,75 -12.5,0 z"
+         style="fill:#bf80ff;fill-opacity:0;fill-rule:nonzero;stroke:none"
+         transform="matrix(0,-1,1,0,0,0)"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path7665"
+         d="m -4574.1562,-1266.6349 12.5,0 0,75 -12.5,0 z"
+         style="fill:#bf80ff;fill-opacity:0;fill-rule:nonzero;stroke:none"
+         transform="scale(-1,-1)"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g7667"
+       transform="matrix(-1,0,0,1,4589.8855,560.51175)">
+      <path
+         id="path7669"
+         d="m 4461.1875,1075.0938 c -41.4214,0 -75,78.35 -75,175 l 0,12.5 75,0 0,-12.5 12.5,0 0,-75 -12.5,0 0,-25 12.5,0 0,-75 -12.5,0 z"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         inkscape:connector-curvature="0" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         y="-1250.0948"
+         x="-4386.1875"
+         height="75"
+         width="12.5"
+         id="rect7671"
+         style="fill:none;stroke:none"
+         transform="scale(-1,-1)" />
+      <rect
+         transform="scale(-1,-1)"
+         style="fill:none;stroke:none"
+         id="rect7673"
+         width="12.5"
+         height="75"
+         x="-4386.1875"
+         y="-1150.0948"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         y="4386.1816"
+         x="-1075.0938"
+         height="75"
+         width="12.5"
+         id="rect7675"
+         style="fill:none;stroke:none"
+         transform="matrix(0,-1,1,0,0,0)" />
+    </g>
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+       style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 103.94803,1723.1057 12.25,12.2187 0,75.5314 -12.25,12.2499 -75.000003,0 -12.25,-12.2499 0,-75.5314 12.25,-12.2187 75.000003,0 z"
+       id="path7677"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g7679"
+       transform="matrix(0,1,1,0,-1062.9269,-2651.0505)">
+      <path
+         id="path7681"
+         d="m 4486.6562,1179.125 0,12.5 -12.5,0 0,75 12.5,0 c 41.4214,0 75,-33.5786 75,-75 l 0,-12.5 -75,0 z"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0,-1,1,0,0,0)"
+         style="fill:#bf80ff;fill-opacity:0;fill-rule:nonzero;stroke:none"
+         d="m -1279.125,4486.667 12.5,0 0,75 -12.5,0 z"
+         id="path7683" />
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(-1,-1)"
+         style="fill:#bf80ff;fill-opacity:0;fill-rule:nonzero;stroke:none"
+         d="m -4574.1562,-1266.6349 12.5,0 0,75 -12.5,0 z"
+         id="path7685" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path7687"
+       d="m 103.94793,1823.1057 12.25,12.2187 0,75.5313 -12.25,12.2499 -74.999903,0 -12.25,-12.2499 0,-75.5313 12.25,-12.2187 74.999903,0 z"
+       style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path7703"
+       d="m 28.948127,1623.1057 -12.25,12.2187 0,75.5314 12.25,12.2499 74.999903,0 12.25,-12.2499 0,-75.5314 -12.25,-12.2187 -74.999903,0 z"
+       style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g7705"
+       transform="translate(-4456.9893,560.51193)">
+      <path
+         id="path7707"
+         d="m 4461.1875,1075.0938 c -41.4214,0 -75,78.35 -75,175 l 0,12.5 75,0 0,-12.5 12.5,0 0,-75 -12.5,0 0,-25 12.5,0 0,-75 -12.5,0 z"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         inkscape:connector-curvature="0" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         y="-1250.0948"
+         x="-4386.1875"
+         height="75"
+         width="12.5"
+         id="rect7709"
+         style="fill:none;stroke:none"
+         transform="scale(-1,-1)" />
+      <rect
+         transform="scale(-1,-1)"
+         style="fill:none;stroke:none"
+         id="rect7711"
+         width="12.5"
+         height="75"
+         x="-4386.1875"
+         y="-1150.0948"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         y="4386.1816"
+         x="-1075.0938"
+         height="75"
+         width="12.5"
+         id="rect7713"
+         style="fill:none;stroke:none"
+         transform="matrix(0,-1,1,0,0,0)" />
+    </g>
+    <g
+       id="g7845"
+       transform="translate(195.81147,-67.46986)">
+      <g
+         transform="matrix(-1,0,0,1,3994.7926,511.45055)"
+         id="g7715">
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 4486.6562,1179.125 0,12.5 -12.5,0 0,75 12.5,0 c 41.4214,0 75,-33.5786 75,-75 l 0,-12.5 -75,0 z"
+           id="path7717" />
+        <path
+           id="path7719"
+           d="m -1279.125,4486.667 12.5,0 0,75 -12.5,0 z"
+           style="fill:#bf80ff;fill-opacity:0;fill-rule:nonzero;stroke:none"
+           transform="matrix(0,-1,1,0,0,0)"
+           inkscape:connector-curvature="0" />
+        <path
+           id="path7721"
+           d="m -4574.1562,-1266.6349 12.5,0 0,75 -12.5,0 z"
+           style="fill:#bf80ff;fill-opacity:0;fill-rule:nonzero;stroke:none"
+           transform="scale(-1,-1)"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         id="g7723"
+         transform="matrix(-1,0,0,1,4094.3241,427.98181)">
+        <path
+           id="path7725"
+           d="m 4461.1875,1075.0938 c -41.4214,0 -75,78.35 -75,175 l 0,12.5 75,0 0,-12.5 12.5,0 0,-75 -12.5,0 0,-25 12.5,0 0,-75 -12.5,0 z"
+           style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           inkscape:connector-curvature="0" />
+        <rect
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+           y="-1250.0948"
+           x="-4386.1875"
+           height="75"
+           width="12.5"
+           id="rect7727"
+           style="fill:none;stroke:none"
+           transform="scale(-1,-1)" />
+        <rect
+           transform="scale(-1,-1)"
+           style="fill:none;stroke:none"
+           id="rect7729"
+           width="12.5"
+           height="75"
+           x="-4386.1875"
+           y="-1150.0948"
+           inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <rect
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+           y="4386.1816"
+           x="-1075.0938"
+           height="75"
+           width="12.5"
+           id="rect7731"
+           style="fill:none;stroke:none"
+           transform="matrix(0,-1,1,0,0,0)" />
+      </g>
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m -391.61336,1590.5757 12.25,12.2187 0,75.5314 -12.25,12.2499 -75,0 -12.25,-12.2499 0,-75.5314 12.25,-12.2187 75,0 z"
+         id="path7733"
+         inkscape:connector-curvature="0" />
+      <g
+         id="g7735"
+         transform="matrix(0,1,1,0,-1558.4883,-2783.5805)">
+        <path
+           id="path7737"
+           d="m 4486.6562,1179.125 0,12.5 -12.5,0 0,75 12.5,0 c 41.4214,0 75,-33.5786 75,-75 l 0,-12.5 -75,0 z"
+           style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           transform="matrix(0,-1,1,0,0,0)"
+           style="fill:#bf80ff;fill-opacity:0;fill-rule:nonzero;stroke:none"
+           d="m -1279.125,4486.667 12.5,0 0,75 -12.5,0 z"
+           id="path7739" />
+        <path
+           inkscape:connector-curvature="0"
+           transform="scale(-1,-1)"
+           style="fill:#bf80ff;fill-opacity:0;fill-rule:nonzero;stroke:none"
+           d="m -4574.1562,-1266.6349 12.5,0 0,75 -12.5,0 z"
+           id="path7741" />
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path7743"
+         d="m -391.61346,1690.5757 12.25,12.2187 0,75.5313 -12.25,12.2499 -74.9999,0 -12.25,-12.2499 0,-75.5313 12.25,-12.2187 74.9999,0 z"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path7745"
+         d="m -466.61326,1490.5757 -12.25,12.2187 0,75.5314 12.25,12.2499 74.9999,0 12.25,-12.2499 0,-75.5314 -12.25,-12.2187 -74.9999,0 z"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <g
+         id="g7747"
+         transform="translate(-4952.5507,427.98199)">
+        <path
+           id="path7749"
+           d="m 4461.1875,1075.0938 c -41.4214,0 -75,78.35 -75,175 l 0,12.5 75,0 0,-12.5 12.5,0 0,-75 -12.5,0 0,-25 12.5,0 0,-75 -12.5,0 z"
+           style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           inkscape:connector-curvature="0" />
+        <rect
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+           y="-1250.0948"
+           x="-4386.1875"
+           height="75"
+           width="12.5"
+           id="rect7751"
+           style="fill:none;stroke:none"
+           transform="scale(-1,-1)" />
+        <rect
+           transform="scale(-1,-1)"
+           style="fill:none;stroke:none"
+           id="rect7753"
+           width="12.5"
+           height="75"
+           x="-4386.1875"
+           y="-1150.0948"
+           inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <rect
+           inkscape:export-ydpi="90"
+           inkscape:export-xdpi="90"
+           inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+           y="4386.1816"
+           x="-1075.0938"
+           height="75"
+           width="12.5"
+           id="rect7755"
+           style="fill:none;stroke:none"
+           transform="matrix(0,-1,1,0,0,0)" />
+      </g>
+    </g>
+    <g
+       id="g7799"
+       transform="translate(-5260.5885,532.6057)">
+      <path
+         id="path7801"
+         d="m 5239.5312,990.5 0,12.5 c 0,0 18.8716,18.8917 37.75,37.7812 l 0,37.5 12.25,12.2188 75,0 12.25,-12.2188 0,-37.5 c 18.8743,-18.8628 37.75,-37.7362 37.75,-37.7812 l 0,-12.5 -50,0 -50,0 -75,0 z"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         inkscape:connector-curvature="0" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         y="1002.9914"
+         x="5227.0366"
+         height="75"
+         width="12.5"
+         id="rect7803"
+         style="fill:none;stroke:none" />
+      <rect
+         style="fill:none;stroke:none"
+         id="rect7805"
+         width="12.5"
+         height="75"
+         x="5414.5366"
+         y="1002.9914"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       transform="matrix(0,-1,1,0,-1085.1457,6644.4807)"
+       id="g7825">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 5321.375,764.09375 0,75 12.5,0 0,25 -12.5,0 0,75 12.5,0 0,12.5 75,0 0,-12.5 25,0 0,12.5 75,0 0,-12.5 12.5,0 0,-75 -12.5,0 0,-25 12.5,0 0,-75 -12.5,0 -175,0 -12.5,0 z"
+         id="path7827" />
+      <rect
+         transform="matrix(0,-1,1,0,0,0)"
+         style="fill:none;stroke:none"
+         id="rect7829"
+         width="12.5"
+         height="75"
+         x="-764.09375"
+         y="5333.8604"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         y="5433.8604"
+         x="-764.09375"
+         height="75"
+         width="12.5"
+         id="rect7831"
+         style="fill:none;stroke:none"
+         transform="matrix(0,-1,1,0,0,0)" />
+    </g>
+    <path
+       style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m -21.051878,1323.1057 0,12.5 -12.5,0 0,75 12.5,0 0,25 -12.5,0 0,75 12.5,0 0,12.5 74.999998,0 0,-12.5 25,0 0,12.5 75,0 0,-12.5 12.5,0 0,-75 -12.5,0 0,-25 12.5,0 0,-75 -12.5,0 0,-12.5 -75,0 0,12.5 -25,0 0,-12.5 -74.999998,0 z"
+       id="path7833"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path7835"
+       d="m -21.051876,1123.1057 0,12.5 -12.5,0 0,75 12.5,0 0,25 -12.5,0 0,75 12.5,0 0,12.5 74.999998,0 0,-12.5 24.999996,0 0,12.5 75.000002,0 0,-12.5 12.5,0 0,-75 -12.5,0 0,-25 12.5,0 0,-75 -12.5,0 0,-12.5 -75.000002,0 0,12.5 -24.999996,0 0,-12.5 -74.999998,0 z"
+       style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <g
+       id="g7837"
+       transform="matrix(0,-1,1,0,-1751.1457,5479.4343)">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         y="-1705.0842"
+         x="-4168.8286"
+         height="75"
+         width="12.5"
+         id="rect7839"
+         style="fill:#bf80ff;fill-opacity:0;fill-rule:nonzero;stroke:none"
+         transform="scale(-1,-1)" />
+      <path
+         id="path7841"
+         d="m 4168.8438,1617.5938 0,12.5 0,75 0,12.5 75,0 0,-12.5 0,-75 0,-12.5 -75,0 z"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         inkscape:connector-curvature="0" />
+      <rect
+         transform="scale(-1,-1)"
+         style="fill:#bf80ff;fill-opacity:0;fill-rule:nonzero;stroke:none"
+         id="rect7843"
+         width="12.5"
+         height="75"
+         x="-4256.3286"
+         y="-1705.0842"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       id="g7868"
+       transform="matrix(0,-1,1,0,-196.7865,5124.1485)">
+      <path
+         id="path7870"
+         d="m 4474.125,1212 0,12.5 -12.5,0 0,75 12.5,0 75,0 12.5,0 0,-75 -12.5,0 0,-12.5 -75,0 z"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         inkscape:connector-curvature="0" />
+      <rect
+         transform="matrix(0,-1,1,0,0,0)"
+         style="fill:#bf80ff;fill-opacity:0;fill-rule:nonzero;stroke:none"
+         id="rect7872"
+         width="12.5"
+         height="75"
+         x="-1312"
+         y="4474.1343"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       transform="matrix(0,-1,-1,0,2427.2136,5124.1485)"
+       id="g7874">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 4474.125,1212 0,12.5 -12.5,0 0,75 12.5,0 75,0 12.5,0 0,-75 -12.5,0 0,-12.5 -75,0 z"
+         id="path7876" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         y="4474.1343"
+         x="-1312"
+         height="75"
+         width="12.5"
+         id="rect7878"
+         style="fill:#bf80ff;fill-opacity:0;fill-rule:nonzero;stroke:none"
+         transform="matrix(0,-1,1,0,0,0)" />
+    </g>
+    <path
+       style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 1127.7136,462.5235 0,12.5 -12.5,0 0,75 12.5,0 0,12.5 75,0 0,-12.5 12.5,0 0,-75 -12.5,0 0,-12.5 -75,0 z"
+       id="rect6473"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path7904"
+       d="m 1027.7133,462.5235 0,12.5 -12.5,0 0,75 12.5,0 0,12.5 75,0 0,-12.5 12.5,0 0,-75 -12.5,0 0,-12.5 -75,0 z"
+       style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <g
+       id="g8543"
+       transform="translate(3933.1394,-180.10663)">
+      <path
+         id="path7908"
+         d="m -1408.9246,649.3953 -12.5,0 c 0,0 -18.8917,-18.8716 -37.7812,-37.75 l -37.5,0 -12.2188,-12.25 0,-75 12.2188,-12.25 37.5,0 c 18.8628,-18.8743 37.7362,-37.75 37.7812,-37.75 l 12.5,0 0,50 0,50 0,75 z"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m -1208.9247,649.3953 12.5,0 c 0,0 18.8917,-18.8716 37.7812,-37.75 l 37.5,0 12.2188,-12.25 0,-75 -12.2188,-12.25 -37.5,0 c -18.8628,-18.8743 -37.7362,-37.75 -37.7812,-37.75 l -12.5,0 0,50 0,50 0,75 z"
+         id="path7916" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m -1408.9246,349.3953 -12.5,0 c 0,0 -18.8917,-18.8716 -37.7812,-37.75 l -37.5,0 -12.2188,-12.25 0,-75 12.2188,-12.25 37.5,0 c 18.8628,-18.8743 37.7362,-37.75 37.7812,-37.75 l 12.5,0 0,50 0,50 0,75 z"
+         id="path7924" />
+      <path
+         id="path7932"
+         d="m -1208.9247,349.3953 12.5,0 c 0,0 18.8917,-18.8716 37.7812,-37.75 l 37.5,0 12.2188,-12.25 0,-75 -12.2188,-12.25 -37.5,0 c -18.8628,-18.8743 -37.7362,-37.75 -37.7812,-37.75 l -12.5,0 0,50 0,50 0,75 z"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m -1396.4094,361.8899 0,12.5 0,75 0,12.5 75,0 0,-12.5 0,-75 0,-12.5 -75,0 z"
+         id="path7942" />
+      <path
+         id="path7950"
+         d="m -1296.4094,361.8899 0,12.5 0,75 0,12.5 75,0 0,-12.5 0,-75 0,-12.5 -75,0 z"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m -1396.4247,461.88997 0,12.5 -12.5,0 0,75 12.5,0 0,25 -12.5,0 0,74.99996 12.5,0 0,12.5 75,0 0,-12.5 25,0 0,12.5 75,0 0,-12.5 12.5,0 0,-74.99996 -12.5,0 0,-25 12.5,0 0,-75 -12.5,0 0,-12.5 -75,0 0,12.5 -25,0 0,-12.5 -75,0 z"
+         id="path7954"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m -1408.9246,174.38995 0,75 12.5,0 0,25 -12.5,0 0,75 12.5,0 0,12.5 75,0 0,-12.5 25,0 0,12.5 75,0 0,-12.5 12.5,0 0,-75 -12.5,0 0,-25 12.5,0 0,-75 -12.5,0 -175,0 -12.5,0 z"
+         id="path7958" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m -1021.4243,961.88982 12.25,12.2187 0,75.53128 -12.25,12.2499 -75,0 -12.25,-12.2499 0,-75.53128 12.25,-12.2187 75,0 z"
+         id="path8016"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path8018"
+         d="m -1496.6746,961.88986 -12.25,12.2187 0,75.53134 12.25,12.2499 75,0 12.25,-12.2499 0,-75.53134 -12.25,-12.2187 -75,0 z"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         id="path8109"
+         d="m -1208.9243,849.39 12.5,0 0,12.5 75,0 0,-12.5 c 0,-41.4214 -33.5786,-75 -75,-75 l -12.5,0 0,75 z"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m -1421.4246,861.89 0,-12.5 12.5,0 0,-75 -12.5,0 c -41.4214,0 -75,33.5786 -75,75 l 0,12.5 75,0 z"
+         id="path8117" />
+      <path
+         id="path8204"
+         d="m -1521.4246,961.89 0,-12.5 12.5,0 0,-75 -12.5,0 c -41.4214,0 -75,33.5786 -75,75 l 0,12.5 75,0 z"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m -1096.4243,961.89 0,-12.5 -12.5,0 0,-75 12.5,0 c 41.4214,0 75,33.5786 75,75 l 0,12.5 -75,0 z"
+         id="path8212" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m -1496.6746,861.88992 -12.25,12.2187 0,75.53134 12.25,12.2499 75,0 12.25,-12.2499 0,-75.53134 -12.25,-12.2187 -75,0 z"
+         id="path8238"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path8240"
+         d="m -1121.6743,861.88992 12.25,12.2187 0,75.5313 -12.25,12.2499 -75,0 -12.25,-12.2499 0,-75.5313 12.25,-12.2187 75,0 z"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path8258"
+         d="m -1208.9247,774.38993 -12.5,0 0,-12.5 -75,0 0,12.5 -25,0 0,-12.5 -75,0 0,12.5 -12.5,0 0,74.99999 12.5,0 0,24.99999 -12.5,0 0,75 12.5,0 0,12.5 75,0 0,-12.5 25,0 0,12.5 75,0 0,-12.5 12.5,0 0,-75 -12.5,0 0,-24.99999 12.5,0 0,-74.99999 z"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         id="path8262"
+         d="m -1396.4301,961.88991 0,12.5 c 0,0 18.8716,18.8917 37.75,37.78119 l 0,37.5 12.25,12.2188 75,0 12.25,-12.2188 0,-37.5 c 18.8743,-18.86279 37.75,-37.73619 37.75,-37.78119 l 0,-12.5 -50,0 -50,0 -75,0 z"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m -1596.4246,961.88986 -12.25,12.2187 0,75.53134 12.25,12.2499 75,0 12.25,-12.2499 0,-75.53134 -12.25,-12.2187 -75,0 z"
+         id="path8268"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path8270"
+         d="m -1121.6743,961.88982 12.25,12.2187 0,75.53128 -12.25,12.2499 -75,0 -12.25,-12.2499 0,-75.53128 12.25,-12.2187 75,0 z"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         id="path8274"
+         d="m -1096.4243,961.89 0,-12.5 -12.5,0 0,-75 12.5,0 c 41.4214,0 75,33.5786 75,75 l 0,12.5 -75,0 z"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m -1296.4094,661.88993 0,12.5 0,75 0,12.5 75,0 0,-12.5 0,-75 0,-12.5 -75,0 z"
+         id="path8284" />
+      <path
+         id="path8292"
+         d="m -1396.4094,661.88993 0,12.5 0,75 0,12.5 75,0 0,-12.5 0,-75 0,-12.5 -75,0 z"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g8737"
+       transform="translate(2886.5739,29.206481)">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m -1090.0872,345.1612 -12.5,0 c 0,0 -18.8917,-18.8716 -37.7812,-37.75 l -37.5,0 -12.2188,-12.25 0,-75 12.2188,-12.25 37.5,0 c 18.8628,-18.8743 37.7362,-37.75 37.7812,-37.75 l 12.5,0 0,50 0,50 0,75 z"
+         id="path8331" />
+      <path
+         id="path8339"
+         d="m -890.0873,345.1612 12.5,0 c 0,0 18.8917,-18.8716 37.7812,-37.75 l 37.5,0 12.2188,-12.25 0,-75 -12.2188,-12.25 -37.5,0 c -18.8628,-18.8743 -37.7362,-37.75 -37.7812,-37.75 l -12.5,0 0,50 0,50 0,75 z"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path8347"
+         d="m -1090.0872,45.1612 -12.5,0 c 0,0 -18.8917,-18.8716 -37.7812,-37.75 l -37.5,0 -12.2188,-12.25 0,-75 12.2188,-12.25 37.5,0 c 18.8628,-18.8743 37.7362,-37.75 37.7812,-37.75 l 12.5,0 0,50 0,50 0,75 z"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m -890.0873,45.1612 12.5,0 c 0,0 18.8917,-18.8716 37.7812,-37.75 l 37.5,0 12.2188,-12.25 0,-75 -12.2188,-12.25 -37.5,0 c -18.8628,-18.8743 -37.7362,-37.75 -37.7812,-37.75 l -12.5,0 0,50 0,50 0,75 z"
+         id="path8355" />
+      <path
+         id="path8365"
+         d="m -1077.572,57.6558 0,12.5 0,75 0,12.5 75,0 0,-12.5 0,-75 0,-12.5 -75,0 z"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m -977.572,57.6558 0,12.5 0,75 0,12.5 75,0 0,-12.5 0,-75 0,-12.5 -75,0 z"
+         id="path8373" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path8377"
+         d="m -1077.5873,157.65579 0,12.5 -12.5,0 0,75 12.5,0 0,25 -12.5,0 0,74.99996 12.5,0 0,12.5 75,0 0,-12.5 25,0 0,12.5 75,0 0,-12.5 12.5,0 0,-74.99996 -12.5,0 0,-25 12.5,0 0,-75 -12.5,0 0,-12.5 -75,0 0,12.5 -25,0 0,-12.5 -75,0 z"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         id="path8381"
+         d="m -1090.0872,-129.84423 0,75 12.5,0 0,25 -12.5,0 0,75 12.5,0 0,12.5 75,0 0,-12.5 25,0 0,12.5 75,0 0,-12.5 12.5,0 0,-75 -12.5,0 0,-25 12.5,0 0,-75 -12.5,0 -175,0 -12.5,0 z"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m -890.0869,545.1558 12.5,0 0,12.5 75,0 0,-12.5 c 0,-41.4214 -33.5786,-75 -75,-75 l -12.5,0 0,75 z"
+         id="path8395" />
+      <path
+         id="path8403"
+         d="m -1102.5872,557.6558 0,-12.5 12.5,0 0,-75 -12.5,0 c -41.4214,0 -75,33.5786 -75,75 l 0,12.5 75,0 z"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m -1202.5872,657.6558 0,-12.5 12.5,0 0,-75 -12.5,0 c -41.4214,0 -75,33.5786 -75,75 l 0,12.5 75,0 z"
+         id="path8411" />
+      <path
+         id="path8419"
+         d="m -777.5869,657.6558 0,-12.5 -12.5,0 0,-75 12.5,0 c 41.4214,0 75,33.5786 75,75 l 0,12.5 -75,0 z"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path8425"
+         d="m -1177.8372,557.65575 -12.25,12.2187 0,75.53134 12.25,12.2499 75,0 12.25,-12.2499 0,-75.53134 -12.25,-12.2187 -75,0 z"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m -802.83684,557.65575 12.25,12.2187 0,75.5313 -12.25,12.2499 -75,0 -12.25,-12.2499 0,-75.5313 12.25,-12.2187 75,0 z"
+         id="path8427"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m -890.08728,470.15576 -12.5,0 0,-12.5 -75,0 0,12.5 -25.00002,0 0,-12.5 -75,0 0,12.5 -12.5,0 0,74.99999 12.5,0 0,24.99999 -12.5,0 0,75 12.5,0 0,12.5 75,0 0,-12.5 25.00002,0 0,12.5 75,0 0,-12.5 12.5,0 0,-75 -12.5,0 0,-24.99999 12.5,0 0,-74.99999 z"
+         id="path8429"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m -1077.5927,657.65574 0,12.5 c 0,0 18.8716,18.8917 37.75,37.7812 l 0,37.5 12.25,12.2188 75,0 12.25,-12.2188 0,-37.5 c 18.8743,-18.8628 37.75,-37.7362 37.75,-37.7812 l 0,-12.5 -50,0 -50,0 -75,0 z"
+         id="path8433" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m -777.5869,657.6558 0,-12.5 -12.5,0 0,-75 12.5,0 c 41.4214,0 75,33.5786 75,75 l 0,12.5 -75,0 z"
+         id="path8445" />
+      <path
+         id="path8455"
+         d="m -977.572,357.6557 0,12.5 0,75 0,12.5 75,0 0,-12.5 0,-75 0,-12.5 -75,0 z"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m -1077.572,357.6557 0,12.5 0,75 0,12.5 75,0 0,-12.5 0,-75 0,-12.5 -75,0 z"
+         id="path8463" />
+      <path
+         id="path8624"
+         d="m -790.3368,770.1556 -12.5,0 0,-12.5 -75,0 0,12.5 c 0,41.4214 33.5786,75 75,75 l 12.5,0 0,-75 z"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m -703.0868,757.65565 12.25,12.2187 0,75.5313 -12.25,12.2499 -75,0 -12.25,-12.2499 0,-75.5313 12.25,-12.2187 75,0 z"
+         id="path8630"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path8634"
+         d="m -1177.8372,757.6556 0,12.5 -12.5,0 0,75 12.5,0 c 41.4214,0 75,-33.5786 75,-75 l 0,-12.5 -75,0 z"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\ship2.png"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m -1277.5872,757.65563 -12.25,12.2187 0,75.53134 12.25,12.2499 75,0 12.25,-12.2499 0,-75.53134 -12.25,-12.2187 -75,0 z"
+         id="path8640"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path8646"
+         d="m -1277.572,657.6558 0,12.5 0,75 0,12.5 75,0 0,-12.5 0,-75 0,-12.5 -75,0 z"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m -777.5717,657.6558 0,12.5 0,75 0,12.5 75,0 0,-12.5 0,-75 0,-12.5 -75,0 z"
+         id="path8654" />
+      <path
+         id="path8662"
+         d="m -877.8217,657.6558 0,12.5 0,75 0,12.5 75,0 0,-12.5 0,-75 0,-12.5 -75,0 z"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#bf80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m -1177.822,657.6558 0,12.5 0,75 0,12.5 75,0 0,-12.5 0,-75 0,-12.5 -75,0 z"
+         id="path8670" />
+    </g>
+  </g>
+</svg>

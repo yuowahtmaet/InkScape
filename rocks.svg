@@ -1,0 +1,1430 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="rocks.svg">
+  <defs
+     id="defs4">
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4014-9"
+       x="-0.60000002"
+       width="2.2"
+       y="-0.60000002"
+       height="2.2">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="14.68175"
+         id="feGaussianBlur4016-4" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4014"
+       x="-0.60000002"
+       width="2.2"
+       y="-0.60000002"
+       height="2.2">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="14.68175"
+         id="feGaussianBlur4016" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       inkscape:collect="always"
+       id="filter4014-8"
+       x="-0.60000002"
+       width="2.2"
+       y="-0.60000002"
+       height="2.2">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="14.68175"
+         id="feGaussianBlur4016-8" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.10271693"
+     inkscape:cx="3563.6738"
+     inkscape:cy="-782.78067"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       position="0,0"
+       orientation="0,744.09448"
+       id="guide4317" />
+    <sodipodi:guide
+       position="744.09448,0"
+       orientation="-1052.3622,0"
+       id="guide4319" />
+    <sodipodi:guide
+       position="744.09448,1052.3622"
+       orientation="0,-744.09448"
+       id="guide4321" />
+    <sodipodi:guide
+       position="0,1052.3622"
+       orientation="1052.3622,0"
+       id="guide4323" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\rock_temp.png"
+       transform="matrix(0.72357383,0,0,0.68395347,-1964.6486,-2203.6862)"
+       inkscape:transform-center-y="7.597865"
+       inkscape:transform-center-x="-45.422211"
+       d="m 3404.5745,3429.3599 47.2775,123.3309 -56.6588,168.4806 -85.2121,84.6226 -153.3868,75.9394 -103.7853,-39.2829 -111.4033,-124.75 -35.2465,-90.6111 36.7978,-195.6176 90.3218,-104.009 79.5701,-23.0334 176.4072,39.2829 z"
+       inkscape:randomized="0.133"
+       inkscape:rounded="0"
+       inkscape:flatsided="true"
+       sodipodi:arg2="-0.30194921"
+       sodipodi:arg1="-0.5637486"
+       sodipodi:r2="263.71201"
+       sodipodi:r1="273.01477"
+       sodipodi:cy="3588.1565"
+       sodipodi:cx="3151.1755"
+       sodipodi:sides="12"
+       id="path17577"
+       style="fill:#ffffc0;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:7.10747433;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="star" />
+    <g
+       id="g3085"
+       transform="translate(116.73444,1685.3991)">
+      <path
+         id="path3087"
+         d="M 363.15355,87.944884 397.34647,172.31103 356.3504,287.53938 294.69686,345.43702 183.72048,397.34647 108.60236,370.4882 27.992127,285.16536 2.5157481,223.19292 29.125985,89.39764 94.464569,18.283465 152.04331,2.5157481 279.70867,29.374016 z"
+         style="fill:#ffc0ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:4.99606323px;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 1515.5178,2591.3735 c 8.1142,14.1023 3.2953,32.1377 -10.8071,40.2519 -14.1024,8.1496 -32.1025,3.3307 -40.2521,-10.7716 -8.1496,-14.1024 -3.2952,-32.1378 10.7717,-40.252 14.1024,-8.1496 32.1379,-3.3307 40.2875,10.7717 z"
+       id="path3101" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 1515.5178,2591.3735 c 8.1142,14.1023 3.2953,32.1377 -10.8071,40.2519 -14.1024,8.1496 -32.1025,3.3307 -40.2521,-10.7716 -8.1496,-14.1024 -3.2952,-32.1378 10.7717,-40.252 14.1024,-8.1496 32.1379,-3.3307 40.2875,10.7717 z"
+       id="path3103" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 1518.317,2606.1136 c 0,15.6614 -12.685,28.3465 -28.3465,28.3465 -15.6615,0 -28.3465,-12.6851 -28.3465,-28.3465 0,-15.6614 12.685,-28.3465 28.3465,-28.3465 15.6615,0 28.3465,12.6851 28.3465,28.3465 z"
+       id="path3105" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#ffff80;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:4.99606276px;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 1426.4035,2499.0349 -75.0827,6.5196 -57.7559,-29.2322 -33.626,-55.1693 8.2205,-63.2126 62.1851,-47.5866 59.1023,13.6417 55.8071,32.0669 9.8504,85.7126 z"
+       id="path3107" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#ff80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:4.99606276px;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 1720.1083,2500.4167 -48.5433,35.6812 -73.9488,-21.6142 -18.3898,-70.9725 39.9331,-67.3937 34.2638,-17.2913 92.1968,-17.752 28.5945,81.5315 -1.0276,16.5827 z"
+       id="path3109" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m -189.51189,2576.7142 c 8.1496,14.1024 3.2952,32.1378 -10.8071,40.2874 -14.0669,8.1142 -32.1024,3.2953 -40.252,-10.807 -8.1142,-14.1024 -3.2953,-32.1024 10.8071,-40.252 14.1024,-8.1496 32.1024,-3.2953 40.252,10.7716 z"
+       id="path3111" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m -189.51189,2576.7142 c 8.1496,14.1024 3.2952,32.1378 -10.8071,40.2874 -14.0669,8.1142 -32.1024,3.2953 -40.252,-10.807 -8.1142,-14.1024 -3.2953,-32.1024 10.8071,-40.252 14.1024,-8.1496 32.1024,-3.2953 40.252,10.7716 z"
+       id="path3113" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m -186.67729,2591.4544 c 0,15.6614 -12.7205,28.3464 -28.3464,28.3464 -15.6615,0 -28.3465,-12.685 -28.3465,-28.3464 0,-15.6614 12.685,-28.3465 28.3465,-28.3465 15.6259,0 28.3464,12.6851 28.3464,28.3465 z"
+       id="path3115" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#ff80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:4.99606276px;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -278.62609,2484.3756 -75.0827,6.5197 -57.7559,-29.2322 -33.626,-55.1693 8.2559,-63.1772 62.1851,-47.6221 59.0669,13.6418 55.8425,32.0669 9.8504,85.7126 z"
+       id="path3117" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#ff80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:4.99606276px;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 15.114008,2485.793 -48.5787,35.6456 -73.948798,-21.5787 -18.3898,-71.0079 39.968498,-67.3582 34.2638,-17.3268 92.1969,-17.7165 28.559,81.496 -1.0275,16.6181 z"
+       id="path3119" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 703.10386,2587.71 c 8.1141,14.1024 3.2952,32.1378 -10.8071,40.252 -14.1024,8.1496 -32.1024,3.3307 -40.252,-10.7717 -8.1496,-14.1023 -3.2953,-32.1377 10.8071,-40.2519 14.0669,-8.1496 32.1024,-3.3307 40.252,10.7716 z"
+       id="path3121" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 703.10386,2587.71 c 8.1141,14.1024 3.2952,32.1378 -10.8071,40.252 -14.1024,8.1496 -32.1024,3.3307 -40.252,-10.7717 -8.1496,-14.1023 -3.2953,-32.1377 10.8071,-40.2519 14.0669,-8.1496 32.1024,-3.3307 40.252,10.7716 z"
+       id="path3123" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 705.90306,2602.4502 c 0,15.6614 -12.6851,28.3464 -28.3465,28.3464 -15.626,0 -28.3464,-12.685 -28.3464,-28.3464 0,-15.6614 12.7204,-28.3465 28.3464,-28.3465 15.6614,0 28.3465,12.6851 28.3465,28.3465 z"
+       id="path3125" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#ff0040;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:4.99606276px;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 613.98966,2495.3714 -75.0827,6.5197 -57.7559,-29.2322 -33.626,-55.1693 8.256,-63.2127 62.1496,-47.5866 59.1023,13.6418 55.8425,32.0669 9.815,85.7126 z"
+       id="path3127" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#0040ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:4.99606276px;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 907.69436,2496.7533 -48.5433,35.6811 -73.9488,-21.6141 -18.3898,-70.9725 39.9685,-67.3582 34.2284,-17.3268 92.2323,-17.7166 28.559,81.4961 -1.0275,16.5827 z"
+       id="path3129" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m -981.71673,2534.6936 c 8.1496,14.1024 3.3307,32.1378 -10.7716,40.252 -14.10237,8.1496 -32.13777,3.3307 -40.25197,-10.7717 -8.1496,-14.1023 -3.3307,-32.1378 10.7717,-40.2519 14.1023,-8.1496 32.10227,-3.3307 40.25187,10.7716 z"
+       id="path3131" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m -981.71673,2534.6936 c 8.1496,14.1024 3.3307,32.1378 -10.7716,40.252 -14.10237,8.1496 -32.13777,3.3307 -40.25197,-10.7717 -8.1496,-14.1023 -3.3307,-32.1378 10.7717,-40.2519 14.1023,-8.1496 32.10227,-3.3307 40.25187,10.7716 z"
+       id="path3133" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m -978.88203,2549.4338 c 0,15.6614 -12.6851,28.3464 -28.34647,28.3464 -15.6614,0 -28.3464,-12.685 -28.3464,-28.3464 0,-15.6614 12.685,-28.3465 28.3464,-28.3465 15.66137,0 28.34647,12.6851 28.34647,28.3465 z"
+       id="path3135" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#ff80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:4.99606276px;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -1070.7954,2442.355 -75.1181,6.5197 -57.7559,-29.2323 -33.626,-55.1692 8.2559,-63.2126 62.185,-47.5867 59.067,13.6418 55.8425,32.0669 9.8504,85.7126 z"
+       id="path3137" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#80ffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:4.99606276px;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -777.09073,2443.7369 -48.5433,35.6811 -73.9843,-21.6141 -18.3897,-70.9725 39.9685,-67.3937 34.2638,-17.2913 92.1968,-17.752 28.5945,81.5315 -1.0276,16.5827 z"
+       id="path3139" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\rock_temp.png"
+       transform="matrix(0.72357383,0,0,0.68395347,-1935.3915,962.9693)"
+       inkscape:transform-center-y="7.597865"
+       inkscape:transform-center-x="-45.422211"
+       d="m 3404.5745,3429.3599 47.2775,123.3309 -56.6588,168.4806 -85.2121,84.6226 -153.3868,75.9394 -103.7853,-39.2829 -111.4033,-124.75 -35.2465,-90.6111 36.7978,-195.6176 90.3218,-104.009 79.5701,-23.0334 176.4072,39.2829 z"
+       inkscape:randomized="0.133"
+       inkscape:rounded="0"
+       inkscape:flatsided="true"
+       sodipodi:arg2="-0.30194921"
+       sodipodi:arg1="-0.5637486"
+       sodipodi:r2="263.71201"
+       sodipodi:r1="273.01477"
+       sodipodi:cy="3588.1565"
+       sodipodi:cx="3151.1755"
+       sodipodi:sides="12"
+       id="path18497"
+       style="fill:#c0ffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:7.10747433;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="star" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m -986.9549,4386.5657 c 8.11417,14.1024 3.29527,32.1024 -10.80709,40.252 -14.10241,8.1496 -32.10241,3.3307 -40.25201,-10.7716 -8.1496,-14.1024 -3.2952,-32.1378 10.7717,-40.252 14.1024,-8.1496 32.13779,-3.3307 40.2874,10.7716 z"
+       id="path3199" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m -986.9549,4386.5657 c 8.11417,14.1024 3.29527,32.1024 -10.80709,40.252 -14.10241,8.1496 -32.10241,3.3307 -40.25201,-10.7716 -8.1496,-14.1024 -3.2952,-32.1378 10.7717,-40.252 14.1024,-8.1496 32.13779,-3.3307 40.2874,10.7716 z"
+       id="path3201" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m -984.15569,4401.3059 c 0,15.6614 -12.68504,28.3464 -28.34651,28.3464 -15.6614,0 -28.3464,-12.685 -28.3464,-28.3464 0,-15.6614 12.685,-28.3465 28.3464,-28.3465 15.66147,0 28.34651,12.6851 28.34651,28.3465 z"
+       id="path3203" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#40ff00;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:4.99606323px;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -1076.0691,4294.2272 -75.0827,6.5196 -57.7559,-29.2322 -33.626,-55.2048 8.2205,-63.1771 62.1851,-47.5867 59.1023,13.6418 55.8071,32.0315 9.8504,85.748 z"
+       id="path3205" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#4000ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:4.99606323px;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -782.36435,4295.609 -48.5433,35.6811 -73.94883,-21.6141 -18.38976,-70.9725 39.93307,-67.3937 34.26378,-17.2913 92.19686,-17.752 28.59448,81.5315 -1.02755,16.5827 z"
+       id="path3207" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m -111.3683,4393.7587 c 8.1496,14.0669 3.3307,32.1023 -10.7716,40.2519 -14.1024,8.1142 -32.1378,3.2953 -40.252,-10.8071 -8.1496,-14.1023 -3.3307,-32.1023 10.7717,-40.2519 14.1023,-8.1497 32.1023,-3.2953 40.2519,10.8071 z"
+       id="path3209" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m -111.3683,4393.7587 c 8.1496,14.0669 3.3307,32.1023 -10.7716,40.2519 -14.1024,8.1142 -32.1378,3.2953 -40.252,-10.8071 -8.1496,-14.1023 -3.3307,-32.1023 10.7717,-40.2519 14.1023,-8.1497 32.1023,-3.2953 40.2519,10.8071 z"
+       id="path3211" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m -108.5336,4408.4634 c 0,15.6614 -12.6851,28.3464 -28.3465,28.3464 -15.6614,0 -28.3464,-12.685 -28.3464,-28.3464 0,-15.626 12.685,-28.3465 28.3464,-28.3465 15.6614,0 28.3465,12.7205 28.3465,28.3465 z"
+       id="path3213" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#80ffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:4.99606323px;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m -200.447,4301.3846 -75.11812,6.5197 -57.7559,-29.2323 -33.62599,-55.1693 8.25591,-63.1771 62.18504,-47.6221 59.06696,13.6418 55.8425,32.0669 9.8504,85.7126 z"
+       id="path3215" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#40ffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:4.99606323px;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 93.2577,4302.8019 -48.5433,35.6457 -73.9842,-21.5787 -18.3898,-71.0079 39.9685,-67.3583 34.2638,-17.3267 92.1968,-17.7166 28.5945,81.4961 -1.0275,16.6181 z"
+       id="path3217" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 706.8168,4400.9161 c 8.1496,14.1024 3.3307,32.1378 -10.7717,40.252 -14.1023,8.1496 -32.1377,3.3307 -40.2519,-10.7717 -8.1496,-14.1023 -3.3307,-32.1377 10.7716,-40.2519 14.1024,-8.1496 32.1378,-3.3307 40.252,10.7716 z"
+       id="path3219" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 706.8168,4400.9161 c 8.1496,14.1024 3.3307,32.1378 -10.7717,40.252 -14.1023,8.1496 -32.1377,3.3307 -40.2519,-10.7717 -8.1496,-14.1023 -3.3307,-32.1377 10.7716,-40.2519 14.1024,-8.1496 32.1378,-3.3307 40.252,10.7716 z"
+       id="path3221" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#00ff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 709.6514,4415.6563 c 0,15.6614 -12.685,28.3464 -28.3464,28.3464 -15.6614,0 -28.3465,-12.685 -28.3465,-28.3464 0,-15.6614 12.6851,-28.3465 28.3465,-28.3465 15.6614,0 28.3464,12.6851 28.3464,28.3465 z"
+       id="path3223" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#ff80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:4.99606323px;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 617.7381,4308.5775 -75.1182,6.5197 -57.7204,-29.2323 -33.6614,-55.1692 8.2559,-63.2126 62.185,-47.5867 59.1024,13.6418 55.8071,32.0669 9.8503,85.7126 z"
+       id="path3225" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#80ffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:4.99606323px;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 911.4428,4309.9594 -48.5433,35.6811 -73.9843,-21.6141 -18.3897,-70.9725 39.9685,-67.3937 34.2638,-17.2913 92.1968,-17.752 28.5945,81.5315 -1.0276,16.5827 z"
+       id="path3227" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 1589.6318,4386.5657 c 8.1142,14.1024 3.2953,32.1024 -10.8071,40.252 -14.1024,8.1496 -32.1024,3.3307 -40.252,-10.7716 -8.1496,-14.1024 -3.2952,-32.1378 10.7717,-40.252 14.1024,-8.1496 32.1378,-3.3307 40.2874,10.7716 z"
+       id="path3229" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 1589.6318,4386.5657 c 8.1142,14.1024 3.2953,32.1024 -10.8071,40.252 -14.1024,8.1496 -32.1024,3.3307 -40.252,-10.7716 -8.1496,-14.1024 -3.2952,-32.1378 10.7717,-40.252 14.1024,-8.1496 32.1378,-3.3307 40.2874,10.7716 z"
+       id="path3231" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 1592.431,4401.3059 c 0,15.6614 -12.685,28.3464 -28.3465,28.3464 -15.6614,0 -28.3464,-12.685 -28.3464,-28.3464 0,-15.6614 12.685,-28.3465 28.3464,-28.3465 15.6615,0 28.3465,12.6851 28.3465,28.3465 z"
+       id="path3233" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#ffff80;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:4.99606323px;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 1500.5176,4294.2272 -75.0827,6.5196 -57.7559,-29.2322 -33.626,-55.2048 8.2205,-63.1771 62.1851,-47.5867 59.1023,13.6418 55.8071,32.0315 9.8504,85.748 z"
+       id="path3235" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#80ffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:4.99606323px;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 1794.2223,4295.609 -48.5433,35.6811 -73.9488,-21.6141 -18.4252,-70.9725 39.9685,-67.3937 34.2638,-17.2913 92.1969,-17.752 28.5945,81.5315 -1.0276,16.5827 z"
+       id="path3237" />
+    <g
+       transform="translate(-2357.494,-4787.836)"
+       id="g19009"
+       style="fill:#ff0000;fill-opacity:1">
+      <path
+         sodipodi:type="arc"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path19011"
+         sodipodi:cx="157.13695"
+         sodipodi:cy="461.99576"
+         sodipodi:rx="29.358599"
+         sodipodi:ry="29.358599"
+         d="m 186.49555,461.99576 c 0,16.2143 -13.1443,29.3586 -29.3586,29.3586 -16.21431,0 -29.3586,-13.1443 -29.3586,-29.3586 0,-16.21431 13.14429,-29.3586 29.3586,-29.3586 16.2143,0 29.3586,13.14429 29.3586,29.3586 z"
+         transform="matrix(0.86929211,-0.50188603,0.50188603,0.86929211,1042.38,5525.4828)"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\Element.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         sodipodi:type="arc"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter4014-9)"
+         id="path19013"
+         sodipodi:cx="157.13695"
+         sodipodi:cy="461.99576"
+         sodipodi:rx="29.358599"
+         sodipodi:ry="29.358599"
+         d="m 186.49555,461.99576 c 0,16.2143 -13.1443,29.3586 -29.3586,29.3586 -16.21431,0 -29.3586,-13.1443 -29.3586,-29.3586 0,-16.21431 13.14429,-29.3586 29.3586,-29.3586 16.2143,0 29.3586,13.14429 29.3586,29.3586 z"
+         transform="matrix(0.86929211,-0.50188603,0.50188603,0.86929211,1042.38,5525.4828)"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\Element.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         sodipodi:type="arc"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path19015"
+         sodipodi:cx="863.70544"
+         sodipodi:cy="1324.2758"
+         sodipodi:rx="42.898159"
+         sodipodi:ry="42.898159"
+         d="m 906.6036,1324.2758 c 0,23.692 -19.20616,42.8981 -42.89816,42.8981 -23.69199,0 -42.89815,-19.2061 -42.89815,-42.8981 0,-23.692 19.20616,-42.8982 42.89815,-42.8982 23.692,0 42.89816,19.2062 42.89816,42.8982 z"
+         transform="matrix(0.66081974,0,0,0.66081975,840.09348,4973.1197)"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\Element.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <path
+       sodipodi:type="star"
+       style="fill:#ffff80;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:10.01105404;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path19017"
+       sodipodi:sides="9"
+       sodipodi:cx="4204.2197"
+       sodipodi:cy="3015.2156"
+       sodipodi:r1="196.57637"
+       sodipodi:r2="177.10919"
+       sodipodi:arg1="0.94348813"
+       sodipodi:arg2="1.292554"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="-0.112"
+       d="m 4338.402,3193.3093 -151.3513,12.9555 -116.3901,-58.1426 -67.7924,-109.7559 16.6291,-125.6874 125.3156,-94.6667 119.0844,27.1379 112.5242,63.7528 19.8435,170.5155 z"
+       inkscape:transform-center-x="-3.8536727"
+       inkscape:transform-center-y="-1.0088489"
+       transform="matrix(0.49617157,0,0,0.50274584,-3162.813,-652.11234)"
+       inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\rock_medium1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#80ffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
+       inkscape:transform-center-x="-4.1057381"
+       inkscape:transform-center-y="-0.94439116"
+       d="m -716.50459,954.70203 -48.555,35.673 -73.9619,-21.605 -18.3964,-70.979 39.9673,-67.38 34.255,-17.3047 92.2047,-17.7374 28.5796,81.5161 -1.0282,16.589 z"
+       id="path19019"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\rock_medium2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       style="fill:#00ff00;fill-opacity:1"
+       id="g19119"
+       transform="translate(-1474.7083,-4830.8987)">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\Element.png"
+         transform="matrix(0.86929211,-0.50188603,0.50188603,0.86929211,1042.38,5525.4828)"
+         d="m 186.49555,461.99576 c 0,16.2143 -13.1443,29.3586 -29.3586,29.3586 -16.21431,0 -29.3586,-13.1443 -29.3586,-29.3586 0,-16.21431 13.14429,-29.3586 29.3586,-29.3586 16.2143,0 29.3586,13.14429 29.3586,29.3586 z"
+         sodipodi:ry="29.358599"
+         sodipodi:rx="29.358599"
+         sodipodi:cy="461.99576"
+         sodipodi:cx="157.13695"
+         id="path19121"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\Element.png"
+         transform="matrix(0.86929211,-0.50188603,0.50188603,0.86929211,1042.38,5525.4828)"
+         d="m 186.49555,461.99576 c 0,16.2143 -13.1443,29.3586 -29.3586,29.3586 -16.21431,0 -29.3586,-13.1443 -29.3586,-29.3586 0,-16.21431 13.14429,-29.3586 29.3586,-29.3586 16.2143,0 29.3586,13.14429 29.3586,29.3586 z"
+         sodipodi:ry="29.358599"
+         sodipodi:rx="29.358599"
+         sodipodi:cy="461.99576"
+         sodipodi:cx="157.13695"
+         id="path19123"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter4014-9)"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\Element.png"
+         transform="matrix(0.66081974,0,0,0.66081975,840.09348,4973.1197)"
+         d="m 906.6036,1324.2758 c 0,23.692 -19.20616,42.8981 -42.89816,42.8981 -23.69199,0 -42.89815,-19.2061 -42.89815,-42.8981 0,-23.692 19.20616,-42.8982 42.89815,-42.8982 23.692,0 42.89816,19.2062 42.89816,42.8982 z"
+         sodipodi:ry="42.898159"
+         sodipodi:rx="42.898159"
+         sodipodi:cy="1324.2758"
+         sodipodi:cx="863.70544"
+         id="path19125"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         sodipodi:type="arc" />
+    </g>
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\rock_medium1.png"
+       transform="matrix(0.49617157,0,0,0.50274584,-2280.0273,-695.17504)"
+       inkscape:transform-center-y="-1.0088489"
+       inkscape:transform-center-x="-3.8536727"
+       d="m 4338.402,3193.3093 -151.3513,12.9555 -116.3901,-58.1426 -67.7924,-109.7559 16.6291,-125.6874 125.3156,-94.6667 119.0844,27.1379 112.5242,63.7528 19.8435,170.5155 z"
+       inkscape:randomized="-0.112"
+       inkscape:rounded="0"
+       inkscape:flatsided="true"
+       sodipodi:arg2="1.292554"
+       sodipodi:arg1="0.94348813"
+       sodipodi:r2="177.10919"
+       sodipodi:r1="196.57637"
+       sodipodi:cy="3015.2156"
+       sodipodi:cx="4204.2197"
+       sodipodi:sides="9"
+       id="path19127"
+       style="fill:#ffff80;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:10.01105404;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="star" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\rock_medium2.png"
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:connector-curvature="0"
+       id="path19129"
+       d="m 166.2811,911.63903 -48.555,35.673 -73.961896,-21.605 -18.3964,-70.979 39.9673,-67.3797 34.255,-17.3047 92.204696,-17.7374 28.5796,81.5158 -1.0282,16.589 z"
+       inkscape:transform-center-y="-0.94439116"
+       inkscape:transform-center-x="-4.1057381"
+       style="fill:#ff80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0" />
+    <g
+       transform="translate(-670.87099,-4859.6072)"
+       id="g19147"
+       style="fill:#0000ff;fill-opacity:1">
+      <path
+         sodipodi:type="arc"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path19149"
+         sodipodi:cx="157.13695"
+         sodipodi:cy="461.99576"
+         sodipodi:rx="29.358599"
+         sodipodi:ry="29.358599"
+         d="m 186.49555,461.99576 c 0,16.2143 -13.1443,29.3586 -29.3586,29.3586 -16.21431,0 -29.3586,-13.1443 -29.3586,-29.3586 0,-16.21431 13.14429,-29.3586 29.3586,-29.3586 16.2143,0 29.3586,13.14429 29.3586,29.3586 z"
+         transform="matrix(0.86929211,-0.50188603,0.50188603,0.86929211,1042.38,5525.4828)"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\Element.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         sodipodi:type="arc"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter4014-9)"
+         id="path19151"
+         sodipodi:cx="157.13695"
+         sodipodi:cy="461.99576"
+         sodipodi:rx="29.358599"
+         sodipodi:ry="29.358599"
+         d="m 186.49555,461.99576 c 0,16.2143 -13.1443,29.3586 -29.3586,29.3586 -16.21431,0 -29.3586,-13.1443 -29.3586,-29.3586 0,-16.21431 13.14429,-29.3586 29.3586,-29.3586 16.2143,0 29.3586,13.14429 29.3586,29.3586 z"
+         transform="matrix(0.86929211,-0.50188603,0.50188603,0.86929211,1042.38,5525.4828)"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\Element.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         sodipodi:type="arc"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path19153"
+         sodipodi:cx="863.70544"
+         sodipodi:cy="1324.2758"
+         sodipodi:rx="42.898159"
+         sodipodi:ry="42.898159"
+         d="m 906.6036,1324.2758 c 0,23.692 -19.20616,42.8981 -42.89816,42.8981 -23.69199,0 -42.89815,-19.2061 -42.89815,-42.8981 0,-23.692 19.20616,-42.8982 42.89815,-42.8982 23.692,0 42.89816,19.2062 42.89816,42.8982 z"
+         transform="matrix(0.66081974,0,0,0.66081975,840.09348,4973.1197)"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\Element.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <path
+       sodipodi:type="star"
+       style="fill:#ffff80;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:10.01105404;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path19155"
+       sodipodi:sides="9"
+       sodipodi:cx="4204.2197"
+       sodipodi:cy="3015.2156"
+       sodipodi:r1="196.57637"
+       sodipodi:r2="177.10919"
+       sodipodi:arg1="0.94348813"
+       sodipodi:arg2="1.292554"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="-0.112"
+       d="m 4338.402,3193.3093 -151.3513,12.9555 -116.3901,-58.1426 -67.7924,-109.7559 16.6291,-125.6874 125.3156,-94.6667 119.0844,27.1379 112.5242,63.7528 19.8435,170.5155 z"
+       inkscape:transform-center-x="-3.8536727"
+       inkscape:transform-center-y="-1.0088489"
+       transform="matrix(0.49617157,0,0,0.50274584,-1476.19,-723.88354)"
+       inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\rock_medium1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ffff80;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
+       inkscape:transform-center-x="-4.1057381"
+       inkscape:transform-center-y="-0.94439116"
+       d="m 970.1184,882.93103 -48.555,35.673 -73.9619,-21.605 -18.3964,-70.979 39.9673,-67.3802 34.255,-17.3047 92.2047,-17.7374 28.5796,81.5158 -1.0282,16.589 z"
+       id="path19157"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\rock_medium2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       style="fill:#0000ff;fill-opacity:1"
+       id="g19171"
+       transform="translate(197.5604,-4852.4301)">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\Element.png"
+         transform="matrix(0.86929211,-0.50188603,0.50188603,0.86929211,1042.38,5525.4828)"
+         d="m 186.49555,461.99576 c 0,16.2143 -13.1443,29.3586 -29.3586,29.3586 -16.21431,0 -29.3586,-13.1443 -29.3586,-29.3586 0,-16.21431 13.14429,-29.3586 29.3586,-29.3586 16.2143,0 29.3586,13.14429 29.3586,29.3586 z"
+         sodipodi:ry="29.358599"
+         sodipodi:rx="29.358599"
+         sodipodi:cy="461.99576"
+         sodipodi:cx="157.13695"
+         id="path19173"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\Element.png"
+         transform="matrix(0.86929211,-0.50188603,0.50188603,0.86929211,1042.38,5525.4828)"
+         d="m 186.49555,461.99576 c 0,16.2143 -13.1443,29.3586 -29.3586,29.3586 -16.21431,0 -29.3586,-13.1443 -29.3586,-29.3586 0,-16.21431 13.14429,-29.3586 29.3586,-29.3586 16.2143,0 29.3586,13.14429 29.3586,29.3586 z"
+         sodipodi:ry="29.358599"
+         sodipodi:rx="29.358599"
+         sodipodi:cy="461.99576"
+         sodipodi:cx="157.13695"
+         id="path19175"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter4014-9)"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\Element.png"
+         transform="matrix(0.66081974,0,0,0.66081975,840.09348,4973.1197)"
+         d="m 906.6036,1324.2758 c 0,23.692 -19.20616,42.8981 -42.89816,42.8981 -23.69199,0 -42.89815,-19.2061 -42.89815,-42.8981 0,-23.692 19.20616,-42.8982 42.89815,-42.8982 23.692,0 42.89816,19.2062 42.89816,42.8982 z"
+         sodipodi:ry="42.898159"
+         sodipodi:rx="42.898159"
+         sodipodi:cy="1324.2758"
+         sodipodi:cx="863.70544"
+         id="path19177"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         sodipodi:type="arc" />
+    </g>
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\rock_medium1.png"
+       transform="matrix(0.49617157,0,0,0.50274584,-607.75859,-716.70644)"
+       inkscape:transform-center-y="-1.0088489"
+       inkscape:transform-center-x="-3.8536727"
+       d="m 4338.402,3193.3093 -151.3513,12.9555 -116.3901,-58.1426 -67.7924,-109.7559 16.6291,-125.6874 125.3156,-94.6667 119.0844,27.1379 112.5242,63.7528 19.8435,170.5155 z"
+       inkscape:randomized="-0.112"
+       inkscape:rounded="0"
+       inkscape:flatsided="true"
+       sodipodi:arg2="1.292554"
+       sodipodi:arg1="0.94348813"
+       sodipodi:r2="177.10919"
+       sodipodi:r1="196.57637"
+       sodipodi:cy="3015.2156"
+       sodipodi:cx="4204.2197"
+       sodipodi:sides="9"
+       id="path19179"
+       style="fill:#ff0040;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:10.01105404;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="star" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\rock_medium2.png"
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:connector-curvature="0"
+       id="path19181"
+       d="m 1838.5498,890.10803 -48.555,35.673 -73.9619,-21.605 -18.3964,-70.979 39.9673,-67.3801 34.255,-17.3047 92.2047,-17.7374 28.5796,81.5158 -1.0282,16.5894 z"
+       inkscape:transform-center-y="-0.94439116"
+       inkscape:transform-center-x="-4.1057381"
+       style="fill:#00ff40;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0" />
+    <path
+       sodipodi:type="star"
+       style="fill:#ffc0c0;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:7.10747433;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path19231"
+       sodipodi:sides="12"
+       sodipodi:cx="3151.1755"
+       sodipodi:cy="3588.1565"
+       sodipodi:r1="273.01477"
+       sodipodi:r2="263.71201"
+       sodipodi:arg1="-0.5637486"
+       sodipodi:arg2="-0.30194921"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0.133"
+       d="m 3404.5745,3429.3599 47.2775,123.3309 -56.6588,168.4806 -85.2121,84.6226 -153.3868,75.9394 -103.7853,-39.2829 -111.4033,-124.75 -35.2465,-90.6111 36.7978,-195.6176 90.3218,-104.009 79.5701,-23.0334 176.4072,39.2829 z"
+       inkscape:transform-center-x="-45.422211"
+       inkscape:transform-center-y="7.597865"
+       transform="matrix(0.72357383,0,0,0.68395347,2017.6456,-2240.2503)"
+       inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\rock_temp.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="star"
+       style="fill:#ffff80;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:10.01105404;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path19313"
+       sodipodi:sides="9"
+       sodipodi:cx="4204.2197"
+       sodipodi:cy="3015.2156"
+       sodipodi:r1="196.57637"
+       sodipodi:r2="177.10919"
+       sodipodi:arg1="0.94348813"
+       sodipodi:arg2="1.292554"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="-0.112"
+       d="m 4338.402,3193.3093 -151.3513,12.9555 -116.3901,-58.1426 -67.7924,-109.7559 16.6291,-125.6874 125.3156,-94.6667 119.0844,27.1379 112.5242,63.7528 19.8435,170.5155 z"
+       inkscape:transform-center-x="-3.8536727"
+       inkscape:transform-center-y="-1.0088489"
+       transform="matrix(0.49617157,0,0,0.50274584,2091.0995,-644.00955)"
+       inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\rock_medium1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ff80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
+       inkscape:transform-center-x="-4.1057381"
+       inkscape:transform-center-y="-0.94439116"
+       d="m 4537.408,962.80463 -48.555,35.6737 -73.9619,-21.6058 -18.3964,-70.9786 39.9673,-67.3802 34.255,-17.3046 92.2047,-17.7374 28.5796,81.5157 -1.0282,16.589 z"
+       id="path19315"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\rock_medium2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\rock_temp.png"
+       transform="matrix(0.72357383,0,0,0.68395347,2028.9248,-622.97687)"
+       inkscape:transform-center-y="7.597865"
+       inkscape:transform-center-x="-45.422211"
+       d="m 3404.5745,3429.3599 47.2775,123.3309 -56.6588,168.4806 -85.2121,84.6226 -153.3868,75.9394 -103.7853,-39.2829 -111.4033,-124.75 -35.2465,-90.6111 36.7978,-195.6176 90.3218,-104.009 79.5701,-23.0334 176.4072,39.2829 z"
+       inkscape:randomized="0.133"
+       inkscape:rounded="0"
+       inkscape:flatsided="true"
+       sodipodi:arg2="-0.30194921"
+       sodipodi:arg1="-0.5637486"
+       sodipodi:r2="263.71201"
+       sodipodi:r1="273.01477"
+       sodipodi:cy="3588.1565"
+       sodipodi:cx="3151.1755"
+       sodipodi:sides="12"
+       id="path19317"
+       style="fill:#c0ffc0;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:7.10747433;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="star" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\rock_medium1.png"
+       transform="matrix(0.49617157,0,0,0.50274584,2067.5077,868.16544)"
+       inkscape:transform-center-y="-1.0088489"
+       inkscape:transform-center-x="-3.8536727"
+       d="m 4338.402,3193.3093 -151.3513,12.9555 -116.3901,-58.1426 -67.7924,-109.7559 16.6291,-125.6874 125.3156,-94.6667 119.0844,27.1379 112.5242,63.7528 19.8435,170.5155 z"
+       inkscape:randomized="-0.112"
+       inkscape:rounded="0"
+       inkscape:flatsided="true"
+       sodipodi:arg2="1.292554"
+       sodipodi:arg1="0.94348813"
+       sodipodi:r2="177.10919"
+       sodipodi:r1="196.57637"
+       sodipodi:cy="3015.2156"
+       sodipodi:cx="4204.2197"
+       sodipodi:sides="9"
+       id="path19319"
+       style="fill:#ffff80;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:10.01105404;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="star" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\rock_medium2.png"
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:connector-curvature="0"
+       id="path19321"
+       d="m 4513.8162,2474.9796 -48.555,35.6737 -73.9619,-21.6058 -18.3964,-70.9786 39.9673,-67.3802 34.255,-17.3046 92.2047,-17.7374 28.5796,81.5157 -1.0282,16.589 z"
+       inkscape:transform-center-y="-0.94439116"
+       inkscape:transform-center-x="-4.1057381"
+       style="fill:#80ffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0" />
+    <path
+       sodipodi:type="star"
+       style="fill:#c0c0ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:7.10747433;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path19331"
+       sodipodi:sides="12"
+       sodipodi:cx="3151.1755"
+       sodipodi:cy="3588.1565"
+       sodipodi:r1="273.01477"
+       sodipodi:r2="263.71201"
+       sodipodi:arg1="-0.5637486"
+       sodipodi:arg2="-0.30194921"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0.133"
+       d="m 3404.5745,3429.3599 47.2775,123.3309 -56.6588,168.4806 -85.2121,84.6226 -153.3868,75.9394 -103.7853,-39.2829 -111.4033,-124.75 -35.2465,-90.6111 36.7978,-195.6176 90.3218,-104.009 79.5701,-23.0334 176.4072,39.2829 z"
+       inkscape:transform-center-x="-45.422211"
+       inkscape:transform-center-y="7.597865"
+       transform="matrix(0.72357383,0,0,0.68395347,2019.1893,966.51572)"
+       inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\rock_temp.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="star"
+       style="fill:#ff80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:10.01105404;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path19333"
+       sodipodi:sides="9"
+       sodipodi:cx="4204.2197"
+       sodipodi:cy="3015.2156"
+       sodipodi:r1="196.57637"
+       sodipodi:r2="177.10919"
+       sodipodi:arg1="0.94348813"
+       sodipodi:arg2="1.292554"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="-0.112"
+       d="m 4338.402,3193.3093 -151.3513,12.9555 -116.3901,-58.1426 -67.7924,-109.7559 16.6291,-125.6874 125.3156,-94.6667 119.0844,27.1379 112.5242,63.7528 19.8435,170.5155 z"
+       inkscape:transform-center-x="-3.8536727"
+       inkscape:transform-center-y="-1.0088489"
+       transform="matrix(0.49617157,0,0,0.50274584,2067.5077,2691.3099)"
+       inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\rock_medium1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#80ffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
+       inkscape:transform-center-x="-4.1057381"
+       inkscape:transform-center-y="-0.94439116"
+       d="m 4513.8162,4298.1241 -48.555,35.6737 -73.9619,-21.6058 -18.3964,-70.9786 39.9673,-67.3802 34.255,-17.3046 92.2047,-17.7374 28.5796,81.5157 -1.0282,16.589 z"
+       id="path19335"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\rock_medium2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\rock_medium1.png"
+       transform="matrix(0.49617157,0,0,0.50274584,4800.8208,-1056.1354)"
+       inkscape:transform-center-y="-1.0088489"
+       inkscape:transform-center-x="-3.8536727"
+       d="m 4338.402,3193.3093 -151.3513,12.9555 -116.3901,-58.1426 -67.7924,-109.7559 16.6291,-125.6874 125.3156,-94.6667 119.0844,27.1379 112.5242,63.7528 19.8435,170.5155 z"
+       inkscape:randomized="-0.112"
+       inkscape:rounded="0"
+       inkscape:flatsided="true"
+       sodipodi:arg2="1.292554"
+       sodipodi:arg1="0.94348813"
+       sodipodi:r2="177.10919"
+       sodipodi:r1="196.57637"
+       sodipodi:cy="3015.2156"
+       sodipodi:cx="4204.2197"
+       sodipodi:sides="9"
+       id="path4175"
+       style="fill:#ffff80;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:10.01105404;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="star" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\rock_medium2.png"
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:connector-curvature="0"
+       id="path4177"
+       d="m 7943.2171,268.34973 -48.555,35.673 -73.9619,-21.605 -18.3964,-70.979 39.9673,-67.38 34.255,-17.3047 92.2047,-17.7374 28.5796,81.5161 -1.0282,16.589 z"
+       inkscape:transform-center-y="-0.94439116"
+       inkscape:transform-center-x="-4.1057381"
+       style="fill:#80ffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0" />
+    <path
+       style="fill:#ff80ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
+       inkscape:transform-center-x="-4.1057381"
+       inkscape:transform-center-y="-0.94439116"
+       d="m 8290.5506,283.69969 -48.555,35.673 -73.9619,-21.605 -18.3964,-70.979 39.9673,-67.3797 34.255,-17.3047 92.2047,-17.7374 28.5796,81.5158 -1.0282,16.589 z"
+       id="path4179"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\rock_medium2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="star"
+       style="fill:#ff0040;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:10.01105404;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4181"
+       sodipodi:sides="9"
+       sodipodi:cx="4204.2197"
+       sodipodi:cy="3015.2156"
+       sodipodi:r1="196.57637"
+       sodipodi:r2="177.10919"
+       sodipodi:arg1="0.94348813"
+       sodipodi:arg2="1.292554"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="-0.112"
+       d="m 4338.402,3193.3093 -151.3513,12.9555 -116.3901,-58.1426 -67.7924,-109.7559 16.6291,-125.6874 125.3156,-94.6667 119.0844,27.1379 112.5242,63.7528 19.8435,170.5155 z"
+       inkscape:transform-center-x="-3.8536727"
+       inkscape:transform-center-y="-1.0088489"
+       transform="matrix(0.49617157,0,0,0.50274584,6504.0196,-1276.4973)"
+       inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\rock_medium1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#00ff40;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
+       inkscape:transform-center-x="-4.1057381"
+       inkscape:transform-center-y="-0.94439116"
+       d="m 8969.799,349.78813 -48.555,35.673 -73.9619,-21.605 -18.3964,-70.979 39.9673,-67.3801 34.255,-17.3047 92.2047,-17.7374 28.5796,81.5158 -1.0282,16.5894 z"
+       id="path4183"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\rock_medium2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       id="path4185"
+       d="m 9294.8222,359.81244 -48.5433,35.6811 -73.9488,-21.6141 -18.3898,-70.9725 39.9685,-67.3582 34.2284,-17.3268 92.2323,-17.7166 28.559,81.4961 -1.0275,16.5827 z"
+       style="fill:#0040ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:4.99606276px;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g17961"
+       transform="translate(5133.277,-5773.5181)">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\Element.png"
+         transform="matrix(0.86929211,-0.50188603,0.50188603,0.86929211,1042.38,5525.4828)"
+         d="m 186.49555,461.99576 c 0,16.2143 -13.1443,29.3586 -29.3586,29.3586 -16.21431,0 -29.3586,-13.1443 -29.3586,-29.3586 0,-16.21431 13.14429,-29.3586 29.3586,-29.3586 16.2143,0 29.3586,13.14429 29.3586,29.3586 z"
+         sodipodi:ry="29.358599"
+         sodipodi:rx="29.358599"
+         sodipodi:cy="461.99576"
+         sodipodi:cx="157.13695"
+         id="path17963"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\Element.png"
+         transform="matrix(0.86929211,-0.50188603,0.50188603,0.86929211,1042.38,5525.4828)"
+         d="m 186.49555,461.99576 c 0,16.2143 -13.1443,29.3586 -29.3586,29.3586 -16.21431,0 -29.3586,-13.1443 -29.3586,-29.3586 0,-16.21431 13.14429,-29.3586 29.3586,-29.3586 16.2143,0 29.3586,13.14429 29.3586,29.3586 z"
+         sodipodi:ry="29.358599"
+         sodipodi:rx="29.358599"
+         sodipodi:cy="461.99576"
+         sodipodi:cx="157.13695"
+         id="path17965"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter4014)"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\Element.png"
+         transform="matrix(0.66081974,0,0,0.66081975,840.09348,4973.1197)"
+         d="m 906.6036,1324.2758 c 0,23.692 -19.20616,42.8981 -42.89816,42.8981 -23.69199,0 -42.89815,-19.2061 -42.89815,-42.8981 0,-23.692 19.20616,-42.8982 42.89815,-42.8982 23.692,0 42.89816,19.2062 42.89816,42.8982 z"
+         sodipodi:ry="42.898159"
+         sodipodi:rx="42.898159"
+         sodipodi:cy="1324.2758"
+         sodipodi:cx="863.70544"
+         id="path17967"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       transform="translate(5289.8944,-5789.1514)"
+       id="g17969" />
+    <g
+       style="fill:#00ff00;fill-opacity:1"
+       transform="translate(5166.7753,-5651.8243)"
+       id="g17993">
+      <path
+         sodipodi:type="arc"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path17995"
+         sodipodi:cx="157.13695"
+         sodipodi:cy="461.99576"
+         sodipodi:rx="29.358599"
+         sodipodi:ry="29.358599"
+         d="m 186.49555,461.99576 c 0,16.2143 -13.1443,29.3586 -29.3586,29.3586 -16.21431,0 -29.3586,-13.1443 -29.3586,-29.3586 0,-16.21431 13.14429,-29.3586 29.3586,-29.3586 16.2143,0 29.3586,13.14429 29.3586,29.3586 z"
+         transform="matrix(0.86929211,-0.50188603,0.50188603,0.86929211,1042.38,5525.4828)"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\Element.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         sodipodi:type="arc"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter4014)"
+         id="path17997"
+         sodipodi:cx="157.13695"
+         sodipodi:cy="461.99576"
+         sodipodi:rx="29.358599"
+         sodipodi:ry="29.358599"
+         d="m 186.49555,461.99576 c 0,16.2143 -13.1443,29.3586 -29.3586,29.3586 -16.21431,0 -29.3586,-13.1443 -29.3586,-29.3586 0,-16.21431 13.14429,-29.3586 29.3586,-29.3586 16.2143,0 29.3586,13.14429 29.3586,29.3586 z"
+         transform="matrix(0.86929211,-0.50188603,0.50188603,0.86929211,1042.38,5525.4828)"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\Element.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         sodipodi:type="arc"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path17999"
+         sodipodi:cx="863.70544"
+         sodipodi:cy="1324.2758"
+         sodipodi:rx="42.898159"
+         sodipodi:ry="42.898159"
+         d="m 906.6036,1324.2758 c 0,23.692 -19.20616,42.8981 -42.89816,42.8981 -23.69199,0 -42.89815,-19.2061 -42.89815,-42.8981 0,-23.692 19.20616,-42.8982 42.89815,-42.8982 23.692,0 42.89816,19.2062 42.89816,42.8982 z"
+         transform="matrix(0.66081974,0,0,0.66081975,840.09348,4973.1197)"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\Element.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       style="fill:#0000ff;fill-opacity:1"
+       id="g18025"
+       transform="translate(5285.3001,-5652.3224)">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\Element.png"
+         transform="matrix(0.86929211,-0.50188603,0.50188603,0.86929211,1042.38,5525.4828)"
+         d="m 186.49555,461.99576 c 0,16.2143 -13.1443,29.3586 -29.3586,29.3586 -16.21431,0 -29.3586,-13.1443 -29.3586,-29.3586 0,-16.21431 13.14429,-29.3586 29.3586,-29.3586 16.2143,0 29.3586,13.14429 29.3586,29.3586 z"
+         sodipodi:ry="29.358599"
+         sodipodi:rx="29.358599"
+         sodipodi:cy="461.99576"
+         sodipodi:cx="157.13695"
+         id="path18027"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\Element.png"
+         transform="matrix(0.86929211,-0.50188603,0.50188603,0.86929211,1042.38,5525.4828)"
+         d="m 186.49555,461.99576 c 0,16.2143 -13.1443,29.3586 -29.3586,29.3586 -16.21431,0 -29.3586,-13.1443 -29.3586,-29.3586 0,-16.21431 13.14429,-29.3586 29.3586,-29.3586 16.2143,0 29.3586,13.14429 29.3586,29.3586 z"
+         sodipodi:ry="29.358599"
+         sodipodi:rx="29.358599"
+         sodipodi:cy="461.99576"
+         sodipodi:cx="157.13695"
+         id="path18029"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter4014)"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\Element.png"
+         transform="matrix(0.66081974,0,0,0.66081975,840.09348,4973.1197)"
+         d="m 906.6036,1324.2758 c 0,23.692 -19.20616,42.8981 -42.89816,42.8981 -23.69199,0 -42.89815,-19.2061 -42.89815,-42.8981 0,-23.692 19.20616,-42.8982 42.89815,-42.8982 23.692,0 42.89816,19.2062 42.89816,42.8982 z"
+         sodipodi:ry="42.898159"
+         sodipodi:rx="42.898159"
+         sodipodi:cy="1324.2758"
+         sodipodi:cx="863.70544"
+         id="path18031"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       transform="translate(5250.3763,-5779.9142)"
+       id="g19323"
+       style="fill:#00ff00;fill-opacity:1">
+      <path
+         sodipodi:type="arc"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path19325"
+         sodipodi:cx="157.13695"
+         sodipodi:cy="461.99576"
+         sodipodi:rx="29.358599"
+         sodipodi:ry="29.358599"
+         d="m 186.49555,461.99576 c 0,16.2143 -13.1443,29.3586 -29.3586,29.3586 -16.21431,0 -29.3586,-13.1443 -29.3586,-29.3586 0,-16.21431 13.14429,-29.3586 29.3586,-29.3586 16.2143,0 29.3586,13.14429 29.3586,29.3586 z"
+         transform="matrix(0.86929211,-0.50188603,0.50188603,0.86929211,1042.38,5525.4828)"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\Element.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         sodipodi:type="arc"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter4014)"
+         id="path19327"
+         sodipodi:cx="157.13695"
+         sodipodi:cy="461.99576"
+         sodipodi:rx="29.358599"
+         sodipodi:ry="29.358599"
+         d="m 186.49555,461.99576 c 0,16.2143 -13.1443,29.3586 -29.3586,29.3586 -16.21431,0 -29.3586,-13.1443 -29.3586,-29.3586 0,-16.21431 13.14429,-29.3586 29.3586,-29.3586 16.2143,0 29.3586,13.14429 29.3586,29.3586 z"
+         transform="matrix(0.86929211,-0.50188603,0.50188603,0.86929211,1042.38,5525.4828)"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\Element.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         sodipodi:type="arc"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path19329"
+         sodipodi:cx="863.70544"
+         sodipodi:cy="1324.2758"
+         sodipodi:rx="42.898159"
+         sodipodi:ry="42.898159"
+         d="m 906.6036,1324.2758 c 0,23.692 -19.20616,42.8981 -42.89816,42.8981 -23.69199,0 -42.89815,-19.2061 -42.89815,-42.8981 0,-23.692 19.20616,-42.8982 42.89815,-42.8982 23.692,0 42.89816,19.2062 42.89816,42.8982 z"
+         transform="matrix(0.66081974,0,0,0.66081975,840.09348,4973.1197)"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\Element.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       style="fill:#0000ff;fill-opacity:1"
+       transform="translate(5751.5717,-4924.748)"
+       id="g6688">
+      <path
+         sodipodi:type="arc"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path6690"
+         sodipodi:cx="157.13695"
+         sodipodi:cy="461.99576"
+         sodipodi:rx="29.358599"
+         sodipodi:ry="29.358599"
+         d="m 186.49555,461.99576 c 0,16.2143 -13.1443,29.3586 -29.3586,29.3586 -16.21431,0 -29.3586,-13.1443 -29.3586,-29.3586 0,-16.21431 13.14429,-29.3586 29.3586,-29.3586 16.2143,0 29.3586,13.14429 29.3586,29.3586 z"
+         transform="matrix(0.86929211,-0.50188603,0.50188603,0.86929211,1042.38,5525.4828)"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\Element.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         sodipodi:type="arc"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter4014-8)"
+         id="path6692"
+         sodipodi:cx="157.13695"
+         sodipodi:cy="461.99576"
+         sodipodi:rx="29.358599"
+         sodipodi:ry="29.358599"
+         d="m 186.49555,461.99576 c 0,16.2143 -13.1443,29.3586 -29.3586,29.3586 -16.21431,0 -29.3586,-13.1443 -29.3586,-29.3586 0,-16.21431 13.14429,-29.3586 29.3586,-29.3586 16.2143,0 29.3586,13.14429 29.3586,29.3586 z"
+         transform="matrix(0.86929211,-0.50188603,0.50188603,0.86929211,1042.38,5525.4828)"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\Element.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         sodipodi:type="arc"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path6696"
+         sodipodi:cx="863.70544"
+         sodipodi:cy="1324.2758"
+         sodipodi:rx="42.898159"
+         sodipodi:ry="42.898159"
+         d="m 906.6036,1324.2758 c 0,23.692 -19.20616,42.8981 -42.89816,42.8981 -23.69199,0 -42.89815,-19.2061 -42.89815,-42.8981 0,-23.692 19.20616,-42.8982 42.89815,-42.8982 23.692,0 42.89816,19.2062 42.89816,42.8982 z"
+         transform="matrix(0.66081974,0,0,0.66081975,840.09348,4973.1197)"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\Element.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\rock1.png"
+       transform="matrix(0.10787818,0,0,0.10711838,6653.7454,459.71211)"
+       inkscape:transform-center-y="-8.3898229"
+       inkscape:transform-center-x="3.0430915"
+       d="m 4162.8757,3640.4519 -294.7574,173.8145 -241.4293,-208.615 -201.651,-436.7512 276.1466,-283.1628 395.0526,90.2994 250.79,262.2183 z"
+       inkscape:randomized="-0.189"
+       inkscape:rounded="0"
+       inkscape:flatsided="true"
+       sodipodi:arg2="1.108808"
+       sodipodi:arg1="0.66000904"
+       sodipodi:r2="414.8623"
+       sodipodi:r1="414.8623"
+       sodipodi:cy="3322.0542"
+       sodipodi:cx="3896.1416"
+       sodipodi:sides="7"
+       id="path6700"
+       style="fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:46.51266098;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="star" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\rock2.png"
+       sodipodi:nodetypes="cccccccc"
+       inkscape:connector-curvature="0"
+       id="path6703"
+       d="m 7173.5244,798.63461 24.6623,-44.8139 37.8897,13.0466 17.9193,25.5101 14.4766,46.0572 -33.0831,10.3339 -39.7517,-7.468 z"
+       inkscape:transform-center-y="2.1006718"
+       inkscape:transform-center-x="0.57677154"
+       style="fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <g
+       id="g4273"
+       transform="translate(6218.8754,-4900.4093)"
+       style="fill:#0000ff;fill-opacity:1">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\Element.png"
+         transform="matrix(0.86929211,-0.50188603,0.50188603,0.86929211,1042.38,5525.4828)"
+         d="m 186.49555,461.99576 c 0,16.2143 -13.1443,29.3586 -29.3586,29.3586 -16.21431,0 -29.3586,-13.1443 -29.3586,-29.3586 0,-16.21431 13.14429,-29.3586 29.3586,-29.3586 16.2143,0 29.3586,13.14429 29.3586,29.3586 z"
+         sodipodi:ry="29.358599"
+         sodipodi:rx="29.358599"
+         sodipodi:cy="461.99576"
+         sodipodi:cx="157.13695"
+         id="path4275"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\Element.png"
+         transform="matrix(0.86929211,-0.50188603,0.50188603,0.86929211,1042.38,5525.4828)"
+         d="m 186.49555,461.99576 c 0,16.2143 -13.1443,29.3586 -29.3586,29.3586 -16.21431,0 -29.3586,-13.1443 -29.3586,-29.3586 0,-16.21431 13.14429,-29.3586 29.3586,-29.3586 16.2143,0 29.3586,13.14429 29.3586,29.3586 z"
+         sodipodi:ry="29.358599"
+         sodipodi:rx="29.358599"
+         sodipodi:cy="461.99576"
+         sodipodi:cx="157.13695"
+         id="path4277"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter4014-8)"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\Element.png"
+         transform="matrix(0.66081974,0,0,0.66081975,840.09348,4973.1197)"
+         d="m 906.6036,1324.2758 c 0,23.692 -19.20616,42.8981 -42.89816,42.8981 -23.69199,0 -42.89815,-19.2061 -42.89815,-42.8981 0,-23.692 19.20616,-42.8982 42.89815,-42.8982 23.692,0 42.89816,19.2062 42.89816,42.8982 z"
+         sodipodi:ry="42.898159"
+         sodipodi:rx="42.898159"
+         sodipodi:cy="1324.2758"
+         sodipodi:cx="863.70544"
+         id="path4279"
+         style="fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         sodipodi:type="arc" />
+    </g>
+    <path
+       sodipodi:type="star"
+       style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:46.51266098;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4281"
+       sodipodi:sides="7"
+       sodipodi:cx="3896.1416"
+       sodipodi:cy="3322.0542"
+       sodipodi:r1="414.8623"
+       sodipodi:r2="414.8623"
+       sodipodi:arg1="0.66000904"
+       sodipodi:arg2="1.108808"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="-0.189"
+       d="m 4162.8757,3640.4519 -294.7574,173.8145 -241.4293,-208.615 -201.651,-436.7512 276.1466,-283.1628 395.0526,90.2994 250.79,262.2183 z"
+       inkscape:transform-center-x="3.0430915"
+       inkscape:transform-center-y="-8.3898229"
+       transform="matrix(0.10787818,0,0,0.10711838,7121.0491,484.05084)"
+       inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\rock1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#00ff00;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:transform-center-x="0.57677154"
+       inkscape:transform-center-y="2.1006718"
+       d="m 7640.8281,822.97334 24.6623,-44.8139 37.8897,13.0466 17.9193,25.5101 14.4766,46.0572 -33.0831,10.3339 -39.7517,-7.468 z"
+       id="path4283"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc"
+       inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\rock2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       transform="translate(5790.4228,-6070.4507)"
+       id="g4285">
+      <path
+         sodipodi:type="arc"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path4287"
+         sodipodi:cx="157.13695"
+         sodipodi:cy="461.99576"
+         sodipodi:rx="29.358599"
+         sodipodi:ry="29.358599"
+         d="m 186.49555,461.99576 c 0,16.2143 -13.1443,29.3586 -29.3586,29.3586 -16.21431,0 -29.3586,-13.1443 -29.3586,-29.3586 0,-16.21431 13.14429,-29.3586 29.3586,-29.3586 16.2143,0 29.3586,13.14429 29.3586,29.3586 z"
+         transform="matrix(0.86929211,-0.50188603,0.50188603,0.86929211,1042.38,5525.4828)"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\Element.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         sodipodi:type="arc"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter4014)"
+         id="path4289"
+         sodipodi:cx="157.13695"
+         sodipodi:cy="461.99576"
+         sodipodi:rx="29.358599"
+         sodipodi:ry="29.358599"
+         d="m 186.49555,461.99576 c 0,16.2143 -13.1443,29.3586 -29.3586,29.3586 -16.21431,0 -29.3586,-13.1443 -29.3586,-29.3586 0,-16.21431 13.14429,-29.3586 29.3586,-29.3586 16.2143,0 29.3586,13.14429 29.3586,29.3586 z"
+         transform="matrix(0.86929211,-0.50188603,0.50188603,0.86929211,1042.38,5525.4828)"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\Element.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         sodipodi:type="arc"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path4291"
+         sodipodi:cx="863.70544"
+         sodipodi:cy="1324.2758"
+         sodipodi:rx="42.898159"
+         sodipodi:ry="42.898159"
+         d="m 906.6036,1324.2758 c 0,23.692 -19.20616,42.8981 -42.89816,42.8981 -23.69199,0 -42.89815,-19.2061 -42.89815,-42.8981 0,-23.692 19.20616,-42.8982 42.89815,-42.8982 23.692,0 42.89816,19.2062 42.89816,42.8982 z"
+         transform="matrix(0.66081974,0,0,0.66081975,840.09348,4973.1197)"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\Element.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <g
+       id="g4293"
+       transform="translate(5362.152,-4939.3512)"
+       style="fill:#00ff00;fill-opacity:1">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\Element.png"
+         transform="matrix(0.86929211,-0.50188603,0.50188603,0.86929211,1042.38,5525.4828)"
+         d="m 186.49555,461.99576 c 0,16.2143 -13.1443,29.3586 -29.3586,29.3586 -16.21431,0 -29.3586,-13.1443 -29.3586,-29.3586 0,-16.21431 13.14429,-29.3586 29.3586,-29.3586 16.2143,0 29.3586,13.14429 29.3586,29.3586 z"
+         sodipodi:ry="29.358599"
+         sodipodi:rx="29.358599"
+         sodipodi:cy="461.99576"
+         sodipodi:cx="157.13695"
+         id="path4295"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\Element.png"
+         transform="matrix(0.86929211,-0.50188603,0.50188603,0.86929211,1042.38,5525.4828)"
+         d="m 186.49555,461.99576 c 0,16.2143 -13.1443,29.3586 -29.3586,29.3586 -16.21431,0 -29.3586,-13.1443 -29.3586,-29.3586 0,-16.21431 13.14429,-29.3586 29.3586,-29.3586 16.2143,0 29.3586,13.14429 29.3586,29.3586 z"
+         sodipodi:ry="29.358599"
+         sodipodi:rx="29.358599"
+         sodipodi:cy="461.99576"
+         sodipodi:cx="157.13695"
+         id="path4297"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter4014-8)"
+         sodipodi:type="arc" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\Element.png"
+         transform="matrix(0.66081974,0,0,0.66081975,840.09348,4973.1197)"
+         d="m 906.6036,1324.2758 c 0,23.692 -19.20616,42.8981 -42.89816,42.8981 -23.69199,0 -42.89815,-19.2061 -42.89815,-42.8981 0,-23.692 19.20616,-42.8982 42.89815,-42.8982 23.692,0 42.89816,19.2062 42.89816,42.8982 z"
+         sodipodi:ry="42.898159"
+         sodipodi:rx="42.898159"
+         sodipodi:cy="1324.2758"
+         sodipodi:cx="863.70544"
+         id="path4299"
+         style="fill:#00ff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         sodipodi:type="arc" />
+    </g>
+    <path
+       sodipodi:type="star"
+       style="fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:46.51266098;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path4301"
+       sodipodi:sides="7"
+       sodipodi:cx="3896.1416"
+       sodipodi:cy="3322.0542"
+       sodipodi:r1="414.8623"
+       sodipodi:r2="414.8623"
+       sodipodi:arg1="0.66000904"
+       sodipodi:arg2="1.108808"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="-0.189"
+       d="m 4162.8757,3640.4519 -294.7574,173.8145 -241.4293,-208.615 -201.651,-436.7512 276.1466,-283.1628 395.0526,90.2994 250.79,262.2183 z"
+       inkscape:transform-center-x="3.0430915"
+       inkscape:transform-center-y="-8.3898229"
+       transform="matrix(0.10787818,0,0,0.10711838,6264.3257,445.10887)"
+       inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\rock1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ff00ff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       inkscape:transform-center-x="0.57677154"
+       inkscape:transform-center-y="2.1006718"
+       d="m 6784.1047,784.03137 24.6623,-44.8139 37.8897,13.0466 17.9193,25.5101 14.4766,46.0572 -33.0831,10.3339 -39.7517,-7.468 z"
+       id="path4303"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc"
+       inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\rock2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       style="fill:#ff0000;fill-opacity:1"
+       transform="translate(5006.8065,-4953.9544)"
+       id="g4305">
+      <path
+         sodipodi:type="arc"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path4307"
+         sodipodi:cx="157.13695"
+         sodipodi:cy="461.99576"
+         sodipodi:rx="29.358599"
+         sodipodi:ry="29.358599"
+         d="m 186.49555,461.99576 c 0,16.2143 -13.1443,29.3586 -29.3586,29.3586 -16.21431,0 -29.3586,-13.1443 -29.3586,-29.3586 0,-16.21431 13.14429,-29.3586 29.3586,-29.3586 16.2143,0 29.3586,13.14429 29.3586,29.3586 z"
+         transform="matrix(0.86929211,-0.50188603,0.50188603,0.86929211,1042.38,5525.4828)"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\Element.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         sodipodi:type="arc"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter4014-8)"
+         id="path4309"
+         sodipodi:cx="157.13695"
+         sodipodi:cy="461.99576"
+         sodipodi:rx="29.358599"
+         sodipodi:ry="29.358599"
+         d="m 186.49555,461.99576 c 0,16.2143 -13.1443,29.3586 -29.3586,29.3586 -16.21431,0 -29.3586,-13.1443 -29.3586,-29.3586 0,-16.21431 13.14429,-29.3586 29.3586,-29.3586 16.2143,0 29.3586,13.14429 29.3586,29.3586 z"
+         transform="matrix(0.86929211,-0.50188603,0.50188603,0.86929211,1042.38,5525.4828)"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\Element.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+      <path
+         sodipodi:type="arc"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path4311"
+         sodipodi:cx="863.70544"
+         sodipodi:cy="1324.2758"
+         sodipodi:rx="42.898159"
+         sodipodi:ry="42.898159"
+         d="m 906.6036,1324.2758 c 0,23.692 -19.20616,42.8981 -42.89816,42.8981 -23.69199,0 -42.89815,-19.2061 -42.89815,-42.8981 0,-23.692 19.20616,-42.8982 42.89815,-42.8982 23.692,0 42.89816,19.2062 42.89816,42.8982 z"
+         transform="matrix(0.66081974,0,0,0.66081975,840.09348,4973.1197)"
+         inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\Element.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\rock1.png"
+       transform="matrix(0.10787818,0,0,0.10711838,5908.9802,430.50563)"
+       inkscape:transform-center-y="-8.3898229"
+       inkscape:transform-center-x="3.0430915"
+       d="m 4162.8757,3640.4519 -294.7574,173.8145 -241.4293,-208.615 -201.651,-436.7512 276.1466,-283.1628 395.0526,90.2994 250.79,262.2183 z"
+       inkscape:randomized="-0.189"
+       inkscape:rounded="0"
+       inkscape:flatsided="true"
+       sodipodi:arg2="1.108808"
+       sodipodi:arg1="0.66000904"
+       sodipodi:r2="414.8623"
+       sodipodi:r1="414.8623"
+       sodipodi:cy="3322.0542"
+       sodipodi:cx="3896.1416"
+       sodipodi:sides="7"
+       id="path4313"
+       style="fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:46.51266098;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="star" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="D:\Users\Public\Documents\Unity Projects\New Unity Project 1\Assets\Sprites\rock2.png"
+       sodipodi:nodetypes="cccccccc"
+       inkscape:connector-curvature="0"
+       id="path4315"
+       d="m 6428.7592,769.42813 24.6623,-44.8139 37.8897,13.0466 17.9193,25.5101 14.4766,46.0572 -33.0831,10.3339 -39.7517,-7.468 z"
+       inkscape:transform-center-y="2.1006718"
+       inkscape:transform-center-x="0.57677154"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+  </g>
+</svg>
